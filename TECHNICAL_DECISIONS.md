@@ -468,5 +468,5 @@ LOCAL_EMBEDDING_MODEL=sentence-transformers/all-MiniLM-L6-v2
 
 **Document Version**: 1.0  
 **Last Updated**: 2025-11-16  
-**Maintained By**: Technical Documentation Team
+**Maintained By**: Asad Yasin
 
