@@ -46,6 +46,8 @@ The system uses a RAG (Retrieval-Augmented Generation) architecture:
 - **Quality Evaluation**: Optional evaluator agent for answer quality scoring (0-10)
 - **Confidential Data Safe**: Local embeddings ensure no document data leaves your system
 - **Multi-Format Support**: Automatically loads and processes TXT, PDF, Markdown, and DOCX files
+- **FastAPI REST API**: RESTful API with Swagger documentation for programmatic access
+- **Dual Access Modes**: Both CLI script and API endpoints available
 
 ## 🏗️ Project Structure
 
@@ -59,11 +61,13 @@ assignment02/
 │   ├── config.py                 # Configuration management
 │   ├── build_index.py            # Index building pipeline
 │   ├── query.py                  # Query pipeline with hybrid search
+│   ├── api.py                    # FastAPI REST API endpoints
 │   ├── evaluator.py              # Answer quality evaluator
 │   ├── hybrid_search.py          # Hybrid search implementation (BM25 + semantic)
 │   ├── metadata_extractor.py    # Metadata extraction and query parsing
 │   ├── llm_manager.py            # Multi-provider LLM manager with fallback
 │   └── utils.py                  # Retry logic, validation, utilities
+├── run_api.py                    # FastAPI server entry point
 ├── outputs/
 │   ├── embeddings/               # FAISS vector store + BM25 data
 │   │   ├── faiss_index/          # FAISS vector store (index.faiss, index.pkl)
@@ -74,7 +78,6 @@ assignment02/
 ├── tests/
 │   └── test_core.py              # Unit tests
 ├── .env                          # Environment variables (gitignored)
-├── .env.example                  # Environment variables template
 ├── .gitignore                    # Git ignore rules
 ├── requirements.txt              # Python dependencies
 ├── README.md                     # This file
@@ -126,10 +129,7 @@ This installs:
 
 #### 4. Set Up Environment Variables
 
-```bash
-cp .env.example .env
-# Edit .env and add your API keys
-```
+Create a `.env` file in the project root and add your API keys:
 
 **Required Configuration:**
 
@@ -284,6 +284,51 @@ Evaluate the quality of generated answers:
 ```bash
 # Evaluate from sample_queries.json
 python src/evaluator.py outputs/sample_queries.json
+```
+
+### Step 4: Run the FastAPI Server (Optional)
+
+Start the API server for programmatic access:
+
+```bash
+# Using the run script
+python run_api.py
+
+# OR using uvicorn directly
+uvicorn src.api:app --reload --host 0.0.0.0 --port 8000
+```
+
+The API will be available at:
+- **API Base**: http://localhost:8000
+- **Swagger Docs**: http://localhost:8000/docs
+- **ReDoc**: http://localhost:8000/redoc
+- **Health Check**: http://localhost:8000/health
+- **Query Endpoint**: http://localhost:8000/query
+
+**Example API Request:**
+```bash
+curl -X POST "http://localhost:8000/query" \
+  -H "Content-Type: application/json" \
+  -d '{
+    "question": "How do I request vacation time?",
+    "filters": {
+      "service_name": "time-attendance"
+    }
+  }'
+```
+
+**Example Python Client:**
+```python
+import requests
+
+response = requests.post(
+    "http://localhost:8000/query",
+    json={
+        "question": "How do I request vacation time?",
+        "filters": {"service_name": "time-attendance"}
+    }
+)
+print(response.json())
 ```
 
 **Example evaluation output:**
@@ -467,7 +512,6 @@ Example questions the system can answer:
 ## 📚 Additional Documentation
 
 - **TECHNICAL_DECISIONS.md**: Detailed explanation of technical choices and rationale
-- **.env.example**: Complete list of configuration options
 
 ## 🔮 Future Enhancements
 
@@ -475,19 +519,3 @@ Example questions the system can answer:
 - [ ] Web UI for interactive querying
 - [ ] Batch evaluation on test question sets
 - [ ] Support for multiple languages
-
-## 📄 License
-
-Internal use only - Confidential
-
-## 👥 Authors
-
-Technical Documentation Team
-
-## 📞 Support
-
-For issues or questions, contact the development team.
-
----
-
-**Note**: This system processes confidential internal documentation. Ensure proper access controls and data handling procedures are followed.
