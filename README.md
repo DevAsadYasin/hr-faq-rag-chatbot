@@ -2,7 +2,11 @@
 
 **Internal Use Only - Confidential**
 
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/DevAsadYasin/hr-faq-rag-chatbot)
+
 An intelligent FAQ support chatbot using Retrieval-Augmented Generation (RAG) to answer questions about HR policies, features, and procedures from internal documentation. The system processes HR documentation, generates embeddings, and provides accurate answers using vector similarity search and LLM generation.
+
+**Repository**: [https://github.com/DevAsadYasin/hr-faq-rag-chatbot](https://github.com/DevAsadYasin/hr-faq-rag-chatbot)
 
 ## 🎯 Overview
 
@@ -98,7 +102,12 @@ assignment02/
 #### 1. Clone/Navigate to Project Directory
 
 ```bash
-cd /path/to/assignment02
+# Clone the repository
+git clone https://github.com/DevAsadYasin/hr-faq-rag-chatbot.git
+cd hr-faq-rag-chatbot
+
+# OR navigate if already cloned
+cd /path/to/hr-faq-rag-chatbot
 ```
 
 #### 2. Create Virtual Environment
