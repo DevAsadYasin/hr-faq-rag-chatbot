@@ -2,8 +2,8 @@
 data/*
 !data/test_document.txt
 outputs/embeddings/
-outputs/sample_queries.json
 outputs/logs/
+!outputs/sample_queries.json
 outputs/embeddings/bm25_documents.json
 
 # Environment variables
