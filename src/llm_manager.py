@@ -3,7 +3,8 @@ from typing import Optional, List, Dict, Any
 from langchain_core.language_models import BaseChatModel
 from langchain_openai import ChatOpenAI
 from langchain_google_genai import ChatGoogleGenerativeAI
-from config import (
+
+from .config import (
     OPENAI_API_KEY,
     GEMINI_API_KEY,
     OPENROUTER_API_KEY,

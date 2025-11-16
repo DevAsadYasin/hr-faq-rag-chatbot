@@ -31,7 +31,7 @@ def extract_metadata_from_chunk(chunk_text: str, chunk_index: int) -> Dict[str, 
         metadata["section"] = "benefits"
     elif any(term in text_lower for term in ["payroll", "pay", "salary", "wage", "compensation", "paycheck", "direct deposit"]):
         metadata["section"] = "payroll"
-    elif any(term in text_lower for term in ["policy", "policies", "code of conduct", "harassment", "discrimination", "workplace policy"]):
+    elif any(term in text_lower for term in ["policy", "policies", "code of conduct", "harassment", "discrimination", "workplace policy", "discipline", "disciplinary", "disciplinary action", "rules", "company rules"]):
         metadata["section"] = "policies"
     elif any(term in text_lower for term in ["procedure", "process", "how to", "workflow", "steps", "guide", "instructions"]):
         metadata["section"] = "procedures"
@@ -55,7 +55,8 @@ def extract_metadata_from_chunk(chunk_text: str, chunk_index: int) -> Dict[str, 
     hr_keywords = ["leave", "vacation", "benefits", "payroll", "401k", "insurance", 
                    "performance", "review", "training", "compliance", "policy", "hr",
                    "employee", "portal", "self-service", "expense", "reimbursement",
-                   "timesheet", "attendance", "pto", "fmla", "health", "dental", "vision"]
+                   "timesheet", "attendance", "pto", "fmla", "health", "dental", "vision",
+                   "discipline", "disciplinary", "code of conduct", "rules", "conduct"]
     for keyword in hr_keywords:
         if keyword in text_lower:
             tags.append(keyword)
@@ -115,7 +116,7 @@ def parse_query_filters(user_query: str) -> tuple[str, Dict[str, any]]:
         filters["section"] = "benefits"
     elif any(term in query_lower for term in ["payroll", "pay", "salary", "paycheck", "wage", "direct deposit"]):
         filters["section"] = "payroll"
-    elif any(term in query_lower for term in ["policy", "policies", "code of conduct", "workplace policy"]):
+    elif any(term in query_lower for term in ["policy", "policies", "code of conduct", "workplace policy", "discipline", "disciplinary", "disciplinary action", "rules", "company rules", "discipline rules"]):
         filters["section"] = "policies"
     elif any(term in query_lower for term in ["procedure", "process", "how to", "workflow", "steps", "guide"]):
         filters["section"] = "procedures"
