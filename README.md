@@ -521,6 +521,7 @@ Example questions the system can answer:
 ## 📚 Additional Documentation
 
 - **TECHNICAL_DECISIONS.md**: Detailed explanation of technical choices and rationale
+- **GitHub Repository**: [https://github.com/DevAsadYasin/hr-faq-rag-chatbot](https://github.com/DevAsadYasin/hr-faq-rag-chatbot)
 
 ## 🔮 Future Enhancements
 

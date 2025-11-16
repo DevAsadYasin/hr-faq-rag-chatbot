@@ -2,6 +2,8 @@
 
 **Internal Documentation - Technical Team**
 
+**Repository**: [https://github.com/DevAsadYasin/hr-faq-rag-chatbot](https://github.com/DevAsadYasin/hr-faq-rag-chatbot)
+
 This document explains the technical choices made in building the FAQ Support Chatbot RAG system, with detailed rationale for each decision based on requirements, constraints, and best practices.
 
 ## Table of Contents
