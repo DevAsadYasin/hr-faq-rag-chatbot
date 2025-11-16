@@ -1,0 +1,819 @@
+HR SaaS PLATFORM - COMPREHENSIVE FAQ DOCUMENTATION
+Internal Use Only - Confidential
+========================================================
+
+SYSTEM OVERVIEW
+---------------
+The HR SaaS Platform is a comprehensive human resources management system serving 500+ companies and 50,000+ employees globally. The platform handles employee lifecycle management, payroll processing, benefits administration, time tracking, performance management, and compliance reporting. The system processes 10,000+ transactions daily and supports multi-tenant architecture with role-based access control.
+
+EMPLOYEE POLICIES AND PROCEDURES
+----------------------------------
+
+LEAVE AND TIME-OFF POLICIES
+---------------------------
+
+VACATION LEAVE POLICY
+
+Accrual Rate and Calculation:
+Full-time employees accrue 1.25 vacation days per month, which equals 15 days per year. Accrual begins on the first day of employment and continues throughout the year. Vacation days are credited to your account on the first day of each month. For example, if you start on January 15th, you will receive your first vacation day accrual on February 1st. Part-time employees who work 20 or more hours per week accrue 0.625 days per month (7.5 days per year), which is prorated based on their work schedule. Part-time employees working less than 20 hours per week do not accrue vacation time but may be eligible for unpaid time off with manager approval.
+
+Accrual Tracking and Balance:
+Your vacation balance is displayed in real-time in the Employee Self-Service Portal under the Time & Attendance section. The system automatically calculates your accrued balance based on your hire date, employment status, and any time off taken. You can view your current balance, accrued amount, used amount, and available balance at any time. The balance updates automatically on the first of each month when new vacation days are credited. If you have questions about your balance, contact HR or your manager for clarification.
+
+Maximum Carryover Policy:
+Employees can carry over up to 5 unused vacation days from one calendar year to the next. Any vacation days in excess of 5 days that are not used by December 31st will be forfeited. For example, if you have 8 unused vacation days at the end of the year, you can carry over 5 days to the next year, and the remaining 3 days will be lost. The carryover days must be used within the first 6 months of the new year, or they will also be forfeited. This policy encourages employees to take time off for rest and rejuvenation while allowing some flexibility for planning longer vacations.
+
+Request Process and Timeline:
+All vacation requests must be submitted through the Employee Self-Service Portal at least 2 weeks (14 calendar days) in advance of the requested start date. This advance notice allows managers to plan for coverage and ensures business continuity. To submit a request, log into the portal, navigate to Time & Attendance, select "Request Time Off", choose "Vacation" as the leave type, enter your start and end dates, and add any comments or notes for your manager. The system will automatically check your available balance and prevent submission if you don't have sufficient vacation days. You can request partial days (half-day or specific hours) if needed for appointments or other short-duration needs.
+
+Approval Workflow and Manager Response:
+Vacation requests require direct manager approval within 3 business days of submission. When you submit a request, your manager receives an email notification and a notification in their manager portal. Managers can approve, reject, or request modifications to your vacation request. If your manager does not respond within 3 business days, the system sends a reminder notification. If there is still no response after 5 business days, the request is automatically approved to prevent delays in your planning. However, managers can still override auto-approved requests if business needs require it, but they must provide justification and discuss alternatives with you.
+
+Blackout Periods and Restrictions:
+No vacation requests are allowed during Q4 (October 1 - December 31) without VP-level approval. This blackout period is in place because Q4 is typically the busiest time of year for most departments, with year-end projects, client deliverables, and planning for the next year. If you have an exceptional circumstance that requires time off during Q4, you must submit a written request to your manager, who will forward it to the VP of your department for consideration. VP approval is granted only for critical situations such as family emergencies, medical procedures that cannot be postponed, or pre-planned major life events (weddings, etc.) that were scheduled before the blackout period was announced.
+
+Emergency Leave and Unforeseen Circumstances:
+For emergency situations that require immediate time off (family emergencies, medical emergencies, natural disasters, etc.), you should notify your manager immediately via phone, text, or email, even if it's outside business hours. After notifying your manager, you must submit a vacation request through the portal within 48 hours of the emergency. Emergency requests are typically approved automatically, but you may be asked to provide documentation depending on the nature of the emergency. Examples of emergencies include: death or serious illness of a family member, medical emergencies requiring immediate attention, natural disasters affecting your home, or other unforeseen critical situations.
+
+Unpaid Leave for Extended Absences:
+If you need to take time off beyond your accrued vacation balance, you may request unpaid leave. Unpaid leave requires HR approval and is typically granted for extended personal situations, sabbaticals, or other long-term needs. To request unpaid leave, submit a written request to HR through the portal, explaining the reason and duration of the requested leave. HR will review your request, consider business needs, and may require documentation depending on the circumstances. Unpaid leave does not accrue vacation or sick time, and benefits may be affected if the leave exceeds 30 days. You must discuss unpaid leave with your manager before submitting the request to HR.
+
+SICK LEAVE POLICY
+
+Accrual and Eligibility:
+Full-time employees accrue 1 sick day per month, which equals 12 days per year. Sick leave accrual begins on your first day of employment and continues throughout your tenure. Unlike vacation time, sick leave can be used as soon as it's accrued - you don't need to wait for a specific amount to accumulate. Part-time employees working 20+ hours per week accrue sick leave on a prorated basis (0.5 days per month for half-time employees). Your sick leave balance is displayed in the Employee Portal and updates monthly.
+
+Permissible Usage of Sick Leave:
+Sick leave can be used for several legitimate purposes: personal illness or injury that prevents you from working, medical appointments (doctor visits, dental appointments, therapy sessions, etc.), recovery from medical procedures, caring for a sick family member (spouse, child, parent, or dependent), mental health days when you need time to address stress, anxiety, or other mental health concerns, and preventive care appointments. You can use sick leave in full-day increments or partial days (half-days or specific hours) for appointments. The system allows you to specify whether you're using a full day or partial day when submitting your request.
+
+Notification Requirements:
+You must notify your manager before the start of your scheduled workday if you need to use sick leave. Notification can be made via email, phone call, text message, or through the company messaging system (Slack, Teams, etc.). If you're unable to notify before your start time due to an emergency (such as being hospitalized), have a family member or friend notify your manager on your behalf as soon as possible. After notifying your manager, you must submit a sick leave request through the Employee Portal within 24 hours of your absence. The portal request should include the date(s) of absence, reason (brief description), and whether it's a full or partial day.
+
+Documentation Requirements:
+For absences of 3 consecutive days or less, no medical documentation is typically required unless your manager requests it due to a pattern of absences. For absences exceeding 3 consecutive days, a medical certificate or doctor's note is required. The documentation should include: the date of the medical visit, the reason for absence (illness, injury, etc.), the dates you are unable to work, and when you can return to work (if applicable). Medical documentation must be submitted through the portal or emailed to HR within 5 business days of your return to work. Failure to provide required documentation may result in the absence being marked as unexcused.
+
+Carryover and Maximum Balance:
+Up to 3 unused sick days can be carried over from one calendar year to the next. Any sick days in excess of 3 that are not used by December 31st will be forfeited. There is no maximum cap on total sick leave balance - you can accumulate sick leave indefinitely up to the annual accrual limit. However, it's encouraged to use sick leave when needed rather than hoarding it, as your health and well-being are priorities. Carried-over sick days retain all the same usage rights as newly accrued days.
+
+Short-term Disability Transition:
+If you are absent due to illness or injury for 5 or more consecutive workdays, you may be eligible for Short-term Disability (STD) benefits. STD provides 60% of your salary and begins after a 7-day waiting period. To transition to STD, you must: notify HR of your extended absence, provide medical documentation from a licensed healthcare provider, complete the STD claim forms provided by HR, and work with HR to coordinate the transition from sick leave to STD. During the first 7 days of absence, you use your accrued sick leave. After 7 days, STD benefits begin, and you continue to receive 60% of your salary. STD can last up to 26 weeks, after which Long-term Disability may apply if you're still unable to work.
+
+PERSONAL LEAVE POLICY
+
+Annual Allocation and Grant Date:
+All full-time employees receive 2 personal days per year, which are granted on January 1st of each calendar year. Personal days are a separate category from vacation and sick leave, designed to provide flexibility for personal matters that don't fit into other leave categories. Part-time employees working 20+ hours per week receive 1 personal day per year, also granted on January 1st. Personal days are available immediately upon grant - you don't need to accrue them throughout the year. If you start employment mid-year, you receive a prorated number of personal days based on your start date (e.g., starting in July grants you 1 personal day for the remainder of the year).
+
+Permissible Usage:
+Personal days can be used for a wide variety of personal matters that require time away from work, including: personal appointments (legal, financial, personal business), family obligations (school events, family emergencies, caregiving needs), religious observances not covered by other policies, personal errands that cannot be done outside work hours, mental health days for stress relief, moving or relocation activities, and other personal matters that require time off. Personal days cannot be used for vacation purposes (use vacation leave instead) or for illness (use sick leave instead). If you're unsure whether a situation qualifies for personal leave, consult with your manager or HR.
+
+Request Process and Advance Notice:
+Personal leave requests must be submitted at least 3 business days in advance through the Employee Self-Service Portal. This advance notice allows managers to plan for your absence and ensure adequate coverage. To submit a request, log into the portal, go to Time & Attendance, select "Request Time Off", choose "Personal" as the leave type, enter your requested date(s), and provide a brief description of the reason (this helps managers understand the request context). You can request full days or partial days (half-days) depending on your needs. The system will automatically check your available personal day balance and prevent submission if you've already used your allocation.
+
+Manager Approval Process:
+Personal leave requests require manager approval, which is typically granted unless the requested time falls during a business-critical period. Managers review requests considering: business needs and deadlines, team coverage requirements, other employees' time-off requests, and the nature of your personal matter. Managers typically respond within 2 business days. If your request is denied, your manager will discuss alternative dates or arrangements with you. In cases of urgent personal matters that arise with less than 3 days' notice, contact your manager directly to discuss the situation - exceptions may be granted for genuine emergencies.
+
+Use-It-or-Lose-It Policy:
+Personal days do not carry over from one year to the next - they must be used by December 31st or they will be forfeited. This is a "use-it-or-lose-it" policy designed to encourage employees to take time for personal matters and maintain work-life balance. The system will send reminder notifications in November and December if you have unused personal days. You cannot convert unused personal days to vacation time or receive payment for unused personal days. Plan ahead to use your personal days throughout the year rather than losing them at year-end.
+
+PARENTAL LEAVE POLICY
+
+Maternity Leave for Birth Mothers:
+Birth mothers are eligible for 12 weeks of paid maternity leave following the birth of a child. This leave can begin up to 2 weeks before the expected due date or can start on the actual birth date, depending on your preference and medical advice. The 12 weeks of paid leave are provided at 100% of your regular salary. Maternity leave can be combined with FMLA (Family and Medical Leave Act) leave, which provides job protection for up to 12 weeks. If you qualify for both, the leaves run concurrently - you receive paid maternity leave benefits while also being protected under FMLA. You can also use accrued vacation or sick leave to extend your time off beyond the 12 weeks if needed, though this would be unpaid after your paid leave is exhausted.
+
+Paternity Leave for Birth Fathers and Non-Birth Parents:
+Birth fathers and non-birth parents (including same-sex partners, adoptive parents in certain situations, and other non-birthing parents) are eligible for 4 weeks of paid paternity leave. This leave must be taken within 12 weeks of the child's birth or arrival. Paternity leave is paid at 100% of your regular salary. You can take the 4 weeks consecutively or split them (for example, 2 weeks immediately after birth and 2 weeks later), but all 4 weeks must be used within the 12-week window. Paternity leave can also be combined with FMLA if you meet the eligibility requirements. This policy recognizes the importance of both parents being present during the early weeks of a child's life.
+
+Adoption Leave for Adoptive Parents:
+Employees who adopt a child (including foster-to-adopt situations) are eligible for 8 weeks of paid adoption leave. This leave applies to both single parents and couples adopting together. The 8 weeks of paid leave begin on the date the child is placed in your home or on the official adoption date, whichever is applicable. Adoption leave is paid at 100% of your regular salary. If both parents work for the company and are adopting together, each parent is eligible for their own 8 weeks of adoption leave. The leave can be taken consecutively or staggered to allow both parents to be present during the child's transition period. Adoption leave can also be combined with FMLA for additional job protection.
+
+Request Process and Timeline:
+Parental leave requests must be submitted through the Benefits Portal at least 30 days before your expected leave start date. For maternity leave, submit your request as soon as you know your due date (typically after the first trimester). For adoption leave, submit your request as soon as you receive placement notification or have an adoption date scheduled. The request process includes: completing the Parental Leave Request Form in the portal, selecting your leave start and end dates, indicating whether you want to combine with FMLA, specifying if you'll use additional vacation/sick leave, and uploading required documentation. HR will review your request and contact you within 5 business days to discuss details and answer questions.
+
+Required Documentation:
+For maternity and paternity leave, you must provide a copy of the child's birth certificate or hospital birth record. The documentation should include the child's name, date of birth, and parent names. For adoption leave, you must provide adoption papers, court documents, or placement documentation from the adoption agency. Documentation can be uploaded through the portal or submitted directly to HR. All documentation is kept confidential and is used only to verify eligibility for parental leave benefits. If you're unable to provide documentation immediately (e.g., waiting for birth certificate), contact HR to discuss temporary arrangements - you can start your leave while documentation is being processed.
+
+Job Protection and Return to Work:
+Your position is guaranteed upon return from parental leave within 12 months of your leave start date. This means the company will hold your job (or an equivalent position with the same pay, benefits, and responsibilities) for you. If your department has been restructured during your leave, HR will work with you to find an equivalent position. You must provide at least 2 weeks' notice of your intended return date. Before returning, you'll have a return-to-work meeting with your manager and HR to discuss: any changes that occurred during your absence, updated procedures or systems, your work schedule and any needed accommodations, and a transition plan to help you reintegrate. If you need to extend your leave beyond the initial period, you must request an extension through HR at least 30 days before your scheduled return date.
+
+Benefits Continuation During Leave:
+During paid parental leave, all your benefits continue as normal - health insurance, dental, vision, 401k contributions, and other benefits remain active. The company continues to pay its portion of benefit premiums, and your portion (if any) continues to be deducted from your pay. If you extend your leave beyond the paid period using unpaid time, you'll need to continue paying your portion of benefit premiums. COBRA may apply if you don't return to work after your leave period. Your 401k contributions and company match continue during paid leave. Vacation and sick leave continue to accrue during paid parental leave.
+
+BEREAVEMENT LEAVE POLICY
+
+Immediate Family Bereavement:
+Employees are eligible for 5 paid days of bereavement leave for the death of an immediate family member. Immediate family is defined as: spouse or domestic partner, child (biological, adopted, stepchild, or legal ward), parent (biological, adoptive, step-parent, or legal guardian), and sibling (biological, half-sibling, step-sibling, or adopted sibling). The 5 days can be taken consecutively or non-consecutively within 30 days of the death. If you need additional time beyond the 5 paid days, you may use accrued vacation or personal days, or request unpaid leave. The leave is paid at 100% of your regular salary and does not require advance notice due to the nature of bereavement situations.
+
+Extended Family Bereavement:
+Employees are eligible for 3 paid days of bereavement leave for the death of an extended family member. Extended family is defined as: grandparent, grandchild, aunt, uncle, niece, nephew, and in-laws (mother-in-law, father-in-law, brother-in-law, sister-in-law). The 3 days can be taken consecutively or non-consecutively within 30 days of the death. For extended family, documentation may be required - a death certificate, obituary, or funeral program should be submitted through the portal or to HR. This documentation helps verify the relationship and ensures the policy is applied correctly. If you need additional time, you may use vacation or personal days.
+
+Notification and Request Process:
+In the event of a death in your family, notify your manager immediately - you can call, text, or email, even outside business hours. Your manager will help coordinate coverage for your work responsibilities. After notifying your manager, you must submit a bereavement leave request through the Employee Portal within 7 days of the death. The request should include: the relationship to the deceased, the date of death, the dates you need off, and whether you're requesting immediate family (5 days) or extended family (3 days) leave. The system will automatically approve bereavement leave requests, but HR may follow up to verify documentation if needed for extended family.
+
+Travel Time and Funeral Arrangements:
+If you need to travel for funeral arrangements or to attend services, the bereavement leave covers travel days in addition to the funeral day. For example, if a death occurs and you need to travel across the country, your travel days are included in your bereavement leave allocation. If you need additional time beyond your bereavement allocation for travel or extended mourning, you may use vacation days or request unpaid leave. The company understands that grief affects everyone differently, and additional support is available through the Employee Assistance Program (EAP) for counseling and support services.
+
+ATTENDANCE AND PUNCTUALITY POLICY
+----------------------------------
+
+WORK SCHEDULE AND STANDARD HOURS:
+Full-time employees are expected to work 40 hours per week, typically Monday through Friday, from 9:00 AM to 5:00 PM. This standard schedule ensures coverage during core business hours and facilitates collaboration with team members and clients. Your specific work schedule may vary based on your role, department needs, or manager approval. Some departments may have different standard hours (e.g., customer support may work 8:00 AM - 4:00 PM or have shift schedules). Your manager will communicate your specific schedule during onboarding or when it changes.
+
+FLEXIBLE WORK HOURS ARRANGEMENT:
+The company offers flexible work hours to accommodate different lifestyles and personal needs. Under the flexible hours policy, employees must be present during core business hours (10:00 AM - 3:00 PM), but can flex their start and end times. For example, you could work 7:00 AM - 3:00 PM, 8:00 AM - 4:00 PM, 10:00 AM - 6:00 PM, or 11:00 AM - 7:00 PM, as long as you're present during the 10 AM - 3 PM core hours. Flexible schedules must be approved by your manager and should remain consistent week-to-week to facilitate team coordination. To request a flexible schedule, submit a request through the portal explaining your preferred hours and how you'll ensure coverage during core hours.
+
+TIME TRACKING REQUIREMENTS:
+All non-exempt (hourly) employees must log their hours daily through the Time & Attendance module in the Employee Portal. Time tracking is required for: accurate payroll processing, compliance with labor laws, overtime calculation, and attendance monitoring. You should log your hours at the end of each workday or at minimum, by the end of each week. The system allows you to log: regular hours, overtime hours, break times, and any time-off taken. Exempt (salaried) employees do not need to log hours but may be asked to track time for project management or billing purposes. Failure to accurately log hours can result in payroll delays or disciplinary action.
+
+OVERTIME POLICY AND PRE-APPROVAL:
+Overtime (hours worked over 40 per week) must be pre-approved by your manager before you work the overtime hours. This pre-approval requirement helps control labor costs and ensures overtime is only used when necessary for business needs. To request overtime approval, submit a request through the portal or get verbal/written approval from your manager before working the extra hours. Overtime is paid at 1.5 times your regular hourly rate for all hours over 40 in a workweek. The workweek runs from Monday through Sunday. If you work overtime without approval, you will still be paid for it, but you may face disciplinary action for violating the pre-approval requirement. Managers should not pressure employees to work overtime without proper compensation.
+
+LATE ARRIVAL AND TARDINESS POLICY:
+Arriving more than 15 minutes late to work requires notification to your manager. You should notify your manager as soon as you know you'll be late, via phone, text, email, or messaging system. Occasional tardiness due to traffic, weather, or other unforeseen circumstances is understandable, but consistent tardiness affects team productivity and may indicate a scheduling issue. If you're going to be more than 30 minutes late, you should discuss with your manager whether to use vacation or personal time for the late arrival, or make up the time later in the day or week. Chronic tardiness (arriving late 3+ times per month) will result in a discussion with your manager about the underlying issues and potential solutions.
+
+EXCESSIVE TARDINESS AND PERFORMANCE IMPACT:
+If you have 5 or more late arrivals in a single month, this triggers a performance discussion with your manager. The discussion will focus on: understanding the reasons for tardiness, identifying solutions (schedule adjustments, transportation issues, etc.), setting expectations for improvement, and documenting the conversation. If tardiness continues after the discussion, it may result in a formal performance improvement plan, written warning, or other disciplinary action. Tardiness is tracked in the system and patterns are reviewed quarterly by HR and managers. The goal is to help employees maintain good attendance while addressing any underlying issues that may be causing tardiness.
+
+ABSENCE NOTIFICATION REQUIREMENTS:
+If you need to be absent from work, you must notify your manager before your scheduled start time. Notification should be made as early as possible - ideally the night before if you know you'll be absent, or as soon as you know on the day of absence. Notification can be made via phone call, text message, email, or company messaging system. When notifying, provide: the reason for absence (brief - "sick", "family emergency", etc.), when you expect to return (if known), and any urgent work that needs coverage. After notifying your manager, you must submit a time-off request through the portal within 24 hours. Failure to notify your manager before your start time may result in the absence being marked as unexcused, which can lead to disciplinary action.
+
+NO-SHOW POLICY AND CONSEQUENCES:
+A "no-show" occurs when you fail to report for work and fail to notify your manager of your absence. If you fail to report an absence for 2 consecutive days without notification, this is considered job abandonment and may result in immediate termination. The company will attempt to contact you via phone, email, and emergency contacts if you don't show up for work. If you're unable to contact your manager due to an emergency (hospitalization, etc.), have a family member or friend contact your manager on your behalf. The no-show policy is in place to protect business operations and ensure employee safety - if someone doesn't show up, we want to know they're safe.
+
+ABSENCE TRACKING AND PATTERN REVIEW:
+All absences (sick leave, vacation, personal days, etc.) are tracked in the HR system. The system automatically records: dates of absence, type of leave used, approval status, and patterns of absence. HR and managers review absence patterns quarterly to identify: employees who may need support (frequent absences due to health issues, family situations, etc.), potential abuse of leave policies, and opportunities to improve attendance policies. If you have a pattern of absences (e.g., frequent Monday/Friday absences, absences around holidays, etc.), your manager or HR may discuss this with you to understand the situation and ensure you're using leave appropriately. The goal is to support employees while maintaining fair and consistent application of attendance policies.
+
+REMOTE WORK POLICY
+------------------
+
+ELIGIBILITY AND ROLE SUITABILITY:
+Remote work is available to employees whose roles are suitable for remote work. Roles suitable for remote work typically include: knowledge workers, software developers, designers, analysts, project managers, and other roles that primarily involve computer-based work and don't require physical presence. Roles that may not be suitable for remote work include: customer-facing roles requiring in-person interaction, roles requiring access to physical equipment or facilities, roles with security clearance requirements that mandate on-site work, and certain management roles that benefit from in-person leadership. Eligibility is determined by your manager and HR based on: job requirements, business needs, team structure, and your performance history. Even if your role is suitable, remote work is not guaranteed - it requires manager and HR approval.
+
+REMOTE WORK AGREEMENT AND APPROVAL PROCESS:
+To work remotely, you must submit a Remote Work Agreement through the Employee Portal. The agreement includes: your proposed remote work schedule (full-time remote or hybrid), your remote work location address, confirmation of workspace requirements, internet speed verification, and acknowledgment of remote work policies. The agreement requires approval from both your direct manager and HR. Your manager will evaluate: whether your role is suitable for remote work, your performance and ability to work independently, team collaboration needs, and business requirements. HR will review: policy compliance, workspace safety, tax implications (if working from a different state), and benefit eligibility. The approval process typically takes 5-10 business days. Once approved, the agreement is valid for one year and must be renewed annually.
+
+90-DAY TRIAL PERIOD:
+All new remote work arrangements begin with a 90-day trial period to assess productivity, communication, and suitability. During the trial period, you and your manager will: set clear expectations for deliverables and communication, establish regular check-in meetings (weekly or bi-weekly), monitor productivity and work quality, address any issues that arise, and evaluate whether remote work is working well for both you and the team. At the end of the 90 days, you and your manager will have a review meeting to discuss: what's working well, any challenges encountered, adjustments needed, and whether to continue, modify, or discontinue the remote work arrangement. If the trial is successful, the remote work arrangement continues. If there are issues, you may return to the office, modify the arrangement (e.g., hybrid instead of full remote), or extend the trial period to address specific concerns.
+
+EQUIPMENT AND TECHNOLOGY PROVIDED:
+The company provides essential equipment for remote work, including: laptop computer (company-issued, must be used for work), external monitor (one monitor provided, you can request a second), keyboard and mouse (ergonomic options available), headset for calls and meetings, and necessary software licenses and access. The company does NOT provide: internet connection (you must have reliable internet at your own expense), desk or chair (though ergonomic recommendations are available), printer or scanner (unless required for your role), or home office furniture. You are responsible for maintaining the equipment in good condition and returning it if you leave the company or return to the office. If equipment malfunctions, contact IT Help Desk for support - they can troubleshoot remotely or arrange for repair/replacement.
+
+REMOTE WORKSPACE REQUIREMENTS:
+You must have a dedicated, private workspace in your home that is suitable for remote work. The workspace should: be a separate room or clearly defined area (not your bed or kitchen table), be free from distractions and interruptions during work hours, have adequate lighting and ventilation, be safe and ergonomically appropriate, have a door that can be closed for privacy during calls, and comply with any local regulations for home offices. The workspace should be professional enough for video calls - consider the background visible on camera. If you don't have a suitable workspace, discuss options with your manager - the company may be able to provide a stipend for workspace improvements or suggest co-working space alternatives. HR may request photos of your workspace to verify it meets requirements.
+
+INTERNET SPEED AND CONNECTIVITY REQUIREMENTS:
+You must have reliable, high-speed internet connection at your remote work location. Minimum requirements are: 25 Mbps download speed and 5 Mbps upload speed. These speeds are necessary for: video conferencing, file uploads/downloads, accessing cloud-based systems, and general productivity. You should test your internet speed using online speed test tools and provide verification to HR. If your internet doesn't meet minimum requirements, you may need to upgrade your service or find an alternative location (co-working space, etc.). The company does not reimburse internet costs, but you may be able to deduct home office expenses on your taxes (consult a tax professional). You must have a backup plan for internet outages (mobile hotspot, alternative location, etc.) to ensure business continuity.
+
+AVAILABILITY AND CORE BUSINESS HOURS:
+While working remotely, you must be available during core business hours (10:00 AM - 3:00 PM in your local time zone). This ensures you can participate in meetings, collaborate with team members, and respond to urgent requests. You can flex your start and end times (e.g., work 7 AM - 3 PM or 10 AM - 6 PM) as long as you're available during core hours. You should maintain regular work hours and be responsive during those hours. If you need to be unavailable during core hours for an appointment or personal matter, notify your manager in advance, just as you would if working in the office. Time zone differences are accommodated - if you're in a different time zone, work with your manager to establish appropriate core hours that overlap with the team.
+
+COMMUNICATION EXPECTATIONS AND RESPONSE TIMES:
+Effective communication is critical for remote work success. You are expected to: respond to emails and Slack messages within 2 hours during your work hours, participate actively in team meetings and video calls, keep your calendar updated with your availability, communicate proactively about your work progress and any blockers, and be available for impromptu calls or messages during work hours. Use video for meetings whenever possible to maintain team connection. Set clear status indicators in messaging systems (available, away, in a meeting, etc.) so team members know when you're available. If you'll be unavailable for an extended period (more than 2 hours), update your status and notify your manager or team. Poor communication is one of the most common reasons remote work arrangements fail, so prioritize clear, frequent communication.
+
+SECURITY REQUIREMENTS AND VPN USAGE:
+Security is paramount when working remotely. You must: use the company VPN (Virtual Private Network) for all work-related internet activity, never use public WiFi (coffee shops, airports, etc.) for work without VPN, keep your work laptop and devices secure (locked when not in use), follow all company security policies and procedures, use strong, unique passwords and enable two-factor authentication, keep software and security patches up to date, and report any security incidents or suspicious activity immediately to IT. The company VPN encrypts your internet connection and protects company data. You should connect to VPN at the start of each workday and remain connected throughout. Failure to follow security protocols can result in disciplinary action, including termination, especially if it leads to a security breach.
+
+HYBRID WORK SCHEDULE OPTIONS:
+Many employees work a hybrid schedule, combining office and remote work. The standard hybrid arrangement is 2-3 days in the office and 2-3 days remote per week. Office days are typically Tuesday, Wednesday, and Thursday to maximize team collaboration and in-person meetings. Remote days are often Monday and Friday, allowing for longer weekends and reduced commute time. Your specific hybrid schedule should be discussed with your manager and documented in your Remote Work Agreement. Hybrid schedules must remain consistent week-to-week to facilitate team planning and coordination. If you need to change your hybrid schedule (e.g., work from home on a day you're normally in the office), get manager approval in advance. Hybrid work combines the benefits of remote work (flexibility, reduced commute) with the benefits of in-office work (collaboration, team building, access to resources).
+
+PAYROLL AND COMPENSATION
+------------------------
+
+BI-WEEKLY PAY SCHEDULE:
+Employees are paid bi-weekly, meaning every other Friday. The pay schedule is published annually and available in the Employee Portal. Each pay period covers the previous 2 weeks of work (14 calendar days). For example, if payday is Friday, January 12th, that paycheck covers work performed from December 26th through January 8th. Pay periods always start on a Monday and end on a Sunday. The pay schedule accounts for holidays - if a payday falls on a holiday, you'll be paid on the preceding business day. You can view the complete pay schedule for the year in the Payroll section of the portal.
+
+DIRECT DEPOSIT REQUIREMENT AND SETUP:
+Direct deposit is required for all employees - paper checks are only available for your first paycheck or by special request (with HR approval). To set up direct deposit, log into the Employee Portal, go to the Payroll section, click "Direct Deposit", and enter your bank account information. You'll need: bank name, account type (checking or savings), account number, and routing number. You can add multiple bank accounts and specify how much goes to each account (e.g., 80% to checking, 20% to savings). Direct deposit setup takes effect for the next pay period after submission - changes made before Wednesday of a pay week will apply to that week's paycheck. Direct deposit is secure, convenient, and ensures you receive your pay even if you're out of the office.
+
+PAY STUB ACCESS AND DETAILS:
+Pay stubs are available in the Employee Portal 2 days before each payday. To access your pay stub, log into the portal, go to Payroll, and click "Pay Stubs". You can view and download pay stubs from the last 2 years. Each pay stub shows: gross pay (total earnings before deductions), deductions (taxes, benefits, 401k, etc.), net pay (take-home pay after all deductions), year-to-date totals, hours worked (for hourly employees), and breakdown of all deductions. Pay stubs are available in PDF format for download and printing. If you notice any discrepancies on your pay stub, contact Payroll immediately - payroll errors are corrected in the next pay period or as soon as possible.
+
+SALARY REVIEWS AND MERIT INCREASES:
+Salary reviews are conducted annually as part of the performance review process in Q4. Your salary adjustment is determined by: your performance rating (Exceeds Expectations, Meets Expectations, etc.), market salary data for your role, company financial performance, and budget allocations. Merit increases typically range from 2-5% of your base salary, with higher performers receiving larger increases. For example, if you earn $60,000 and receive a 3% merit increase, your new salary would be $61,800. Merit increases are effective at the start of the new fiscal year (typically January 1st). Your manager will discuss your salary adjustment during your performance review meeting. Salary adjustments are not guaranteed - they depend on performance and company circumstances.
+
+PROMOTION AND SALARY ADJUSTMENTS:
+When you're promoted to a new role, your salary is adjusted to reflect the new position's responsibilities and market rate. Promotion salary adjustments are typically more substantial than merit increases and are based on: the new role's salary range, your experience and qualifications, internal equity (comparing to others in similar roles), and budget considerations. Promotion salary adjustments are effective on your promotion start date. If you're promoted mid-year, you may still be eligible for the annual merit increase later in the year, depending on timing. Your manager and HR will discuss the salary adjustment with you when the promotion is offered.
+
+PAY TRANSPARENCY AND SALARY RANGES:
+The company practices pay transparency by posting salary ranges for all open positions internally. When you view job postings in the Internal Careers Portal, you'll see the salary range for each position (e.g., $70,000 - $90,000). This transparency helps employees: understand compensation for different roles, make informed decisions about career moves, and ensure fair compensation practices. Salary ranges are based on: market data, role responsibilities, experience requirements, and internal equity. Your actual salary within a range depends on your experience, performance, and negotiation. If you have questions about salary ranges or feel you're underpaid, discuss with your manager or HR.
+
+OVERTIME ELIGIBILITY AND CALCULATION:
+Non-exempt (hourly) employees are eligible for overtime pay at 1.5 times their regular hourly rate for all hours worked over 40 in a workweek. The workweek runs Monday through Sunday. Overtime is calculated based on actual hours worked, not scheduled hours. For example, if you're scheduled for 40 hours but work 45 hours, you receive 5 hours of overtime. Overtime must be pre-approved by your manager (see Overtime Policy section). Overtime is paid in the pay period in which it's earned. Exempt (salaried) employees are not eligible for overtime pay, regardless of hours worked, as they receive a fixed salary.
+
+ANNUAL BONUS STRUCTURE:
+Annual bonuses are performance-based and typically range from 5-15% of your base salary. Bonus amounts are determined by: your individual performance rating, your department's performance, company financial performance, and your role's impact on business results. High performers (Exceeds Expectations rating) typically receive bonuses at the higher end of the range (10-15%), while solid performers (Meets Expectations) receive bonuses in the middle range (7-10%). Bonuses are calculated at year-end and paid in your first paycheck of the following year (typically late January or early February). You must be employed at the time of bonus payment to receive it - if you leave before the bonus is paid, you forfeit the bonus unless otherwise specified in your employment agreement.
+
+QUARTERLY AND SPOT BONUSES:
+Some roles are eligible for quarterly bonuses, particularly sales roles and other revenue-generating positions. Quarterly bonuses are based on quarterly performance metrics and are paid in the first paycheck of the following quarter. Spot bonuses are discretionary bonuses awarded for exceptional performance, going above and beyond, or special achievements. Spot bonuses can be awarded at any time by managers (with appropriate approvals) and are typically smaller amounts ($500-$2,000) but provide immediate recognition. Both quarterly and spot bonuses are in addition to annual bonuses and are subject to the same employment requirement - you must be employed at the time of payment.
+
+TAX WITHHOLDING AND W-4 ADJUSTMENTS:
+Tax withholding is based on the information you provide on your W-4 form. You can update your W-4 at any time through the Employee Portal to adjust your withholding. Common reasons to adjust withholding include: getting married or divorced, having a child, buying a house, or wanting to change your refund amount. To update your W-4, go to Payroll section, click "Tax Withholding", and update your information (filing status, number of allowances, additional withholding, etc.). Changes take effect in your next paycheck after submission. The IRS provides a withholding calculator on their website to help you determine the right withholding amount. HR can provide basic guidance, but consult a tax professional for complex tax situations.
+
+STATE TAX WITHHOLDING RULES:
+State taxes are withheld based on your work location, not your residence. This is important for remote workers - if you work from home in a different state than the company's office, you may have taxes withheld for both states. For example, if the company is based in California but you work remotely from Texas, you may have California taxes withheld (work location) but not Texas taxes (no state income tax). Multi-state tax situations can be complex - consult HR or a tax professional if you work remotely from a different state. Some states have reciprocal agreements that simplify tax withholding. HR can help you understand your specific tax situation based on your work location.
+
+W-2 TAX FORM AVAILABILITY:
+W-2 forms (Wage and Tax Statements) are available in the Employee Portal by January 31st each year. The W-2 shows your total earnings and tax withholdings for the previous year and is required for filing your income tax return. You'll receive an email notification when your W-2 is available. You can download your W-2 as a PDF from the portal. The company also mails a paper copy to your address on file (if you haven't opted out of paper delivery). You can access W-2s from previous years (up to 7 years) in the portal. If you need a replacement W-2 or have questions about your W-2, contact Payroll. Keep your W-2s in a safe place - you'll need them for tax filing and may need them for loan applications, etc.
+
+1099 FORMS FOR CONTRACTORS:
+If you work as an independent contractor (not a regular employee), you'll receive a 1099 form instead of a W-2. 1099 forms are also available by January 31st and show your total compensation paid during the year. Contractors are responsible for paying their own taxes (no withholding), so the 1099 shows gross payments. Contractors should set aside money for taxes throughout the year and may need to make quarterly estimated tax payments. The distinction between employee (W-2) and contractor (1099) is determined by HR and legal based on IRS guidelines - you cannot choose your classification.
+
+BENEFITS ENROLLMENT AND ADMINISTRATION
+--------------------------------------
+
+HEALTH INSURANCE
+
+OPEN ENROLLMENT PERIOD:
+Open enrollment for health insurance occurs annually from November 1st through November 15th. During this period, you can: enroll in health insurance if you're not currently enrolled, change your plan (switch from PPO to HMO, etc.), add or remove dependents, and make other benefit elections for the following year. Changes made during open enrollment take effect on January 1st of the following year. You'll receive multiple reminders about open enrollment via email, portal notifications, and company communications. It's important to review your options each year, as plan details, costs, and coverage may change. If you don't make any changes during open enrollment, your current elections typically continue for the next year (unless a plan is being discontinued).
+
+NEW HIRE ENROLLMENT WINDOW:
+New employees have 30 days from their hire date to enroll in health insurance. This 30-day window is a special enrollment period - if you miss it, you'll have to wait until the next open enrollment period (unless you have a qualifying life event). To enroll as a new hire, log into the Employee Portal, go to the Benefits section, review available plans, and complete your enrollment. Coverage typically begins on the first of the month following your hire date. For example, if you start on January 15th, your coverage begins February 1st. If you start on the first of the month, coverage may begin that same day. HR will provide detailed information about your enrollment options during onboarding.
+
+HEALTH INSURANCE PLAN OPTIONS:
+The company offers three health insurance plan options to meet different needs and budgets:
+
+PPO Plan (Preferred Provider Organization):
+The PPO plan offers the most flexibility in choosing healthcare providers. Employee contribution is $200 per month for individual coverage or $500 per month for family coverage. The plan has a $500 annual deductible (the amount you pay before insurance starts covering costs). After meeting the deductible, you pay 20% coinsurance (you pay 20%, insurance pays 80%) until you reach the out-of-pocket maximum of $3,000 for individuals or $6,000 for families. The PPO plan allows you to see any doctor or specialist without a referral, including out-of-network providers (though out-of-network costs are higher). This plan is ideal if you want flexibility in choosing providers or if you have specific doctors you want to continue seeing.
+
+HMO Plan (Health Maintenance Organization):
+The HMO plan offers lower monthly costs but requires you to use providers within the HMO network. Employee contribution is $150 per month for individual coverage or $400 per month for family coverage. The plan has a $300 annual deductible. After the deductible, you pay $25 copays for primary care visits, $50 copays for specialist visits, and $100 copays for emergency room visits. The out-of-pocket maximum is $2,500 for individuals or $5,000 for families. With an HMO, you must choose a primary care physician (PCP) who coordinates your care and provides referrals to specialists. You can only see specialists with a referral from your PCP. This plan is ideal if you want lower monthly costs and don't mind using network providers.
+
+High-Deductible HSA Plan (Health Savings Account):
+The High-Deductible HSA plan has the lowest monthly cost but a higher deductible. Employee contribution is $100 per month for individual coverage or $300 per month for family coverage. The plan has a $2,000 annual deductible for individuals or $4,000 for families. After meeting the deductible, the plan covers 100% of covered services (no coinsurance). The out-of-pocket maximum is $3,000 for individuals or $6,000 for families. The key feature of this plan is the Health Savings Account (HSA) - the company contributes $500 per year to your HSA ($1,000 for family coverage), and you can contribute additional pre-tax dollars up to IRS limits ($3,850 for individuals, $7,750 for families in 2024). HSA funds can be used for qualified medical expenses tax-free and can be invested and carried over year-to-year. This plan is ideal if you're healthy, want to save on premiums, and want the tax advantages of an HSA.
+
+COVERAGE START DATES:
+For new employees, coverage typically begins on the first of the month following your hire date. For example, if you start on January 15th, coverage begins February 1st. If you start on January 1st, coverage may begin that same day. For open enrollment changes, coverage begins January 1st of the following year. For qualifying life events (see below), coverage begins on the first of the month following the event or enrollment, whichever is later. You'll receive confirmation of your coverage start date via email and in the portal. If you have questions about when your coverage begins, contact Benefits Administration.
+
+DEPENDENT COVERAGE AND ELIGIBILITY:
+You can add eligible dependents to your health insurance plan. Eligible dependents include: your legal spouse or domestic partner (domestic partner coverage may have tax implications - consult HR), your biological children, your adopted children, your stepchildren, and your legal wards (children for whom you are the legal guardian). Children are eligible until age 26, regardless of student status, marital status, or financial dependence. To add dependents, you'll need to provide documentation such as: marriage certificate for spouse, birth certificates for children, adoption papers for adopted children, or legal guardianship documents. Dependent coverage costs more than individual coverage - see plan details for family coverage rates. You can add dependents during open enrollment or within 30 days of a qualifying life event.
+
+QUALIFYING LIFE EVENTS FOR MID-YEAR CHANGES:
+Outside of open enrollment, you can make changes to your health insurance within 30 days of a qualifying life event. Qualifying events include: getting married or entering a domestic partnership, having a baby or adopting a child, getting divorced or ending a domestic partnership, losing other health coverage (e.g., spouse's job ends, aging out of parent's plan), death of a covered dependent, change in employment status affecting eligibility, and moving to an area where your current plan isn't available. When a qualifying event occurs, you must notify HR and submit documentation within 30 days. Changes take effect on the first of the month following the event or enrollment, whichever is later. If you miss the 30-day window, you'll have to wait until the next open enrollment.
+
+ENROLLMENT PROCESS AND PLAN COMPARISON:
+To enroll in health insurance, log into the Employee Portal, navigate to the Benefits section, and click "Health Insurance Enrollment". The system will guide you through: viewing all available plans side-by-side, using the cost calculator to estimate annual costs based on your expected usage, comparing plan features (deductibles, copays, networks, etc.), selecting your plan, adding dependents if applicable, and confirming your enrollment. The cost calculator helps you estimate which plan might be most cost-effective based on factors like: how often you visit the doctor, whether you take prescription medications, if you have ongoing medical conditions, and your risk tolerance for higher deductibles. HR and Benefits Administration are available to answer questions and help you choose the right plan for your situation.
+
+DENTAL INSURANCE
+
+COVERAGE LEVELS AND BENEFITS:
+Dental insurance provides coverage at different levels depending on the type of care. Preventive care (cleanings, exams, X-rays) is covered at 100% with no deductible - you pay nothing out of pocket for routine preventive care. Basic procedures (fillings, extractions, root canals) are covered at 80% after a $50 annual deductible. Major procedures (crowns, bridges, dentures) are covered at 50% after the deductible. The annual maximum benefit is $1,500 per person per year - once you reach this limit, you pay 100% of additional costs until the next calendar year. The annual maximum resets on January 1st each year. Some procedures may have waiting periods (e.g., major work may require 12 months of coverage before being eligible).
+
+ORTHODONTIA COVERAGE FOR CHILDREN:
+Orthodontia (braces) coverage is available for dependent children under age 19. The plan covers 50% of orthodontic costs up to a $2,000 lifetime maximum per child. The lifetime maximum means once a child reaches $2,000 in orthodontic benefits, no further orthodontic coverage is available for that child, even if they're still under 19. Orthodontia typically requires pre-authorization - you must get approval from the insurance company before starting treatment. The orthodontist will submit a treatment plan and cost estimate, and the insurance company will approve the coverage amount. Orthodontia coverage is separate from the annual $1,500 maximum - it has its own lifetime limit.
+
+ENROLLMENT AND COST:
+Dental insurance enrollment is included in the health insurance enrollment process - when you enroll in health insurance, you can also enroll in dental. However, you can enroll in dental independently if you don't want health insurance. The cost is $25 per month for employee-only coverage or $50 per month for family coverage (covers employee, spouse, and all eligible children). Dental premiums are deducted from your paycheck pre-tax, reducing your taxable income. Coverage begins on the same date as your health insurance coverage. You can add or remove dependents during open enrollment or qualifying life events, just like health insurance.
+
+VISION INSURANCE
+
+COVERAGE AND BENEFITS:
+Vision insurance covers routine eye care and eyewear. Annual eye exams are covered at 100% with no copay or deductible - you can get one comprehensive eye exam per calendar year at no cost. Frames and lenses are covered up to $150 per year - if frames and lenses cost more than $150, you pay the difference. Contact lenses are covered as an alternative to frames/lenses - you can choose either contacts OR frames/lenses, not both, up to $150 per year. If you choose contacts, the $150 can be used toward the contact lens exam, fitting, and lenses. Some plans may offer discounts on additional pairs of glasses or contacts beyond the annual allowance. Vision insurance typically covers one exam and one pair of glasses/contacts per year.
+
+ENROLLMENT OPTIONS:
+Vision insurance enrollment is separate from health insurance - you can enroll in vision independently, even if you don't have health insurance. This gives you flexibility to choose only the coverage you need. To enroll in vision insurance, go to the Benefits section in the Employee Portal during open enrollment or within 30 days of a qualifying life event. The cost is $10 per month for employee-only coverage or $20 per month for family coverage. Vision premiums are also deducted pre-tax from your paycheck. Coverage begins on the first of the month following enrollment. You can add or remove dependents during open enrollment or qualifying life events.
+
+401K RETIREMENT PLAN
+
+ELIGIBILITY AND AUTOMATIC ENROLLMENT:
+You become eligible for the 401k retirement plan after 90 days of employment. Once eligible, you are automatically enrolled at a 3% contribution rate of your salary. This automatic enrollment helps ensure all employees start saving for retirement, but you can opt out if you choose (though this is not recommended). Automatic enrollment uses pre-tax contributions, meaning your contributions are deducted from your paycheck before taxes are calculated, reducing your taxable income. For example, if you earn $60,000 per year and contribute 3%, you contribute $1,800 per year ($150 per month), and your taxable income is reduced to $58,200. You'll receive notification when you become eligible and are automatically enrolled.
+
+COMPANY MATCHING CONTRIBUTION:
+The company provides a generous matching contribution to help you save for retirement. The company matches 50% of your contributions up to 6% of your salary. This means: if you contribute 6% of your salary, the company contributes 3% (50% of 6%), if you contribute 4% of your salary, the company contributes 2% (50% of 4%), if you contribute 2% of your salary, the company contributes 1% (50% of 2%), and if you contribute less than 6%, you're leaving "free money" on the table. To maximize the company match, you should contribute at least 6% of your salary. The company match is subject to vesting (see below) - you must work for the company for a certain period before the match is fully yours. Company matching contributions are made on a per-paycheck basis, so you see the match grow with each paycheck.
+
+VESTING SCHEDULE EXPLAINED:
+Vesting determines when company matching contributions become fully yours. The company uses a graded vesting schedule: after 1 year of service, you're 33% vested (you own 33% of company match, forfeit 67% if you leave), after 2 years of service, you're 66% vested (you own 66% of company match, forfeit 34% if you leave), and after 3 years of service, you're 100% vested (you own 100% of company match, it's all yours). Your own contributions are always 100% vested immediately - you never lose your own money. Vesting is based on years of service, not calendar years. For example, if you start on June 1st, you reach 1 year of service on June 1st of the following year. If you leave before being fully vested, you forfeit the unvested portion of company match, but you keep your own contributions and any vested match.
+
+CONTRIBUTION LIMITS AND MAXIMIZING SAVINGS:
+You can contribute up to the IRS maximum, which is $22,500 for 2024 ($30,000 if you're age 50 or older, allowing for "catch-up" contributions). These limits apply to your contributions only - company match doesn't count toward the limit. You can contribute on a pre-tax basis (traditional 401k) or after-tax basis (Roth 401k, if offered). Pre-tax contributions reduce your current taxable income but are taxed when withdrawn in retirement. Roth contributions are made with after-tax dollars but grow tax-free and withdrawals in retirement are tax-free. You can split contributions between pre-tax and Roth if both options are available. Financial advisors generally recommend contributing at least enough to get the full company match (6%), and ideally 10-15% of your salary for a comfortable retirement.
+
+INVESTMENT OPTIONS AND PORTFOLIO SELECTION:
+The 401k plan offers 15 mutual funds for investment, including: target-date funds (recommended for most employees - automatically adjust risk as you approach retirement), stock index funds (S&P 500, total market, international stocks), bond funds (government bonds, corporate bonds, total bond market), and balanced funds (mix of stocks and bonds). Target-date funds are recommended because they: automatically adjust your asset allocation as you age, are professionally managed, provide diversification, and require minimal maintenance - you just pick the fund closest to your expected retirement year (e.g., "Target 2050 Fund" if you plan to retire around 2050). You can change your investment allocations at any time through the Benefits Portal. The plan provider offers educational resources and tools to help you choose appropriate investments based on your age, risk tolerance, and retirement goals.
+
+ENROLLMENT AND CONTRIBUTION CHANGES:
+You can enroll in the 401k or change your contribution percentage at any time through the Benefits Portal. To enroll or make changes: log into the portal, go to Benefits section, click "401k Retirement Plan", select your contribution percentage (or opt out if you choose), choose your investment allocations, and confirm your changes. Changes to contribution percentage typically take effect in the next pay period. Changes to investment allocations take effect within a few business days. You can increase, decrease, or stop contributions at any time - there are no restrictions on changing your contribution rate. However, if you stop contributing, you'll miss out on company matching for that period. It's recommended to set your contribution rate and review it annually during open enrollment or when you receive a raise.
+
+401K LOANS FOR FINANCIAL HARDSHIP:
+If you face a financial hardship, you may be able to borrow from your 401k. Loan eligibility: you can borrow up to 50% of your vested balance or $50,000, whichever is less, loans must be repaid within 5 years (longer for primary residence purchases), interest rate is typically prime rate + 1%, and you pay interest to yourself (the interest goes back into your 401k account). To request a loan, contact the plan administrator through the Benefits Portal. Loan applications require documentation of the hardship and are subject to approval. While 401k loans can provide needed funds, they have drawbacks: you miss out on investment growth while the money is out of your account, if you leave the company, the loan typically becomes due immediately, and if you can't repay it, it becomes a withdrawal subject to taxes and penalties. Consider 401k loans carefully and explore other options first.
+
+WITHDRAWALS AND DISTRIBUTION RULES:
+You can withdraw from your 401k penalty-free after age 59.5. Withdrawals before age 59.5 are subject to a 10% early withdrawal penalty plus income taxes, unless you qualify for an exception (hardship, disability, etc.). Once you reach age 72, you must begin taking Required Minimum Distributions (RMDs) each year, based on your account balance and life expectancy. RMDs are calculated by the plan administrator and you'll receive notifications. If you leave the company, you have several options: leave the money in the plan (if balance is over $5,000), roll over to your new employer's 401k (tax-free), roll over to an IRA (tax-free), or take a cash distribution (subject to taxes and penalties if under 59.5). The plan administrator can help you understand your options and complete rollovers. It's generally recommended to roll over rather than cash out to avoid taxes and penalties and continue tax-deferred growth.
+
+LIFE INSURANCE
+
+BASIC LIFE INSURANCE COVERAGE:
+All employees receive basic life insurance coverage equal to 1x their annual salary at no cost. This means if you earn $60,000 per year, you have $60,000 in life insurance coverage. The coverage is provided by the company - you don't pay any premiums. Basic life insurance provides financial protection for your beneficiaries in the event of your death. The coverage amount automatically adjusts if your salary changes - if you get a raise, your life insurance coverage increases accordingly. Basic life insurance is term life insurance, meaning it provides coverage for a specific period (while you're employed) and doesn't build cash value. Coverage continues as long as you're employed by the company.
+
+SUPPLEMENTAL LIFE INSURANCE OPTIONS:
+You can purchase additional life insurance coverage beyond the basic 1x salary, up to 5x your annual salary. Supplemental coverage is available in increments (1x, 2x, 3x, 4x, or 5x total including basic). For example, if you want 3x total coverage and already have 1x basic, you can purchase 2x supplemental. Supplemental life insurance premiums are paid by you through payroll deduction. Premiums are based on your age, coverage amount, and health status (may require medical underwriting for higher amounts). Supplemental coverage is also term life insurance. You can enroll in supplemental coverage during open enrollment or within 30 days of a qualifying life event (marriage, birth of child, etc.). Premiums are typically lower than individual policies because of group rates.
+
+BENEFICIARY DESIGNATION:
+You must designate one or more beneficiaries to receive your life insurance benefits in the event of your death. You can designate: primary beneficiaries (who receive the benefits first), contingent beneficiaries (who receive benefits if primary beneficiaries are deceased), and percentage allocations (how much each beneficiary receives). You can name multiple beneficiaries and specify what percentage each receives (e.g., 50% to spouse, 25% to each of two children). Beneficiaries can be: individuals (spouse, children, family members, friends), trusts, or organizations. You should review and update your beneficiaries periodically, especially after major life events (marriage, divorce, birth of children, etc.). To designate or update beneficiaries, go to the Benefits Portal, click "Life Insurance", and update your beneficiary information. Beneficiary designations take effect immediately upon submission.
+
+PORTABILITY AND CONVERSION OPTIONS:
+If you leave the company, you have options for your life insurance. Basic life insurance (provided at no cost) typically ends when you leave, as it's tied to employment. However, you may be able to convert your basic coverage to an individual policy within 30 days of termination - contact the insurance provider for conversion options and rates. Supplemental life insurance may be portable (you can continue it) or convertible to an individual policy, depending on the plan terms. Portability means you can continue the coverage by paying premiums directly to the insurance company. Conversion means you convert the group policy to an individual policy, typically at higher rates. Review your options when leaving the company to ensure your family maintains coverage.
+
+DISABILITY INSURANCE
+
+SHORT-TERM DISABILITY (STD) COVERAGE:
+Short-term disability provides income replacement if you're unable to work due to illness or injury. STD pays 60% of your regular salary and begins after a 7-day waiting period. The waiting period means you must be disabled for 7 consecutive days before benefits begin - during those first 7 days, you typically use accrued sick leave. STD benefits can last up to 26 weeks (approximately 6 months). To qualify for STD, you must: be unable to perform your job duties due to illness or injury, provide medical documentation from a licensed healthcare provider, and meet the plan's definition of disability. STD benefits are taxable income if the company pays the premiums (which it does for basic coverage). You can use STD for: illness, injury, surgery recovery, pregnancy complications, and mental health conditions that prevent you from working.
+
+LONG-TERM DISABILITY (LTD) COVERAGE:
+Long-term disability begins after short-term disability ends (after 26 weeks) and continues until you recover, reach age 65, or are no longer disabled according to the plan definition. LTD also pays 60% of your regular salary. LTD has a stricter definition of disability - you must be unable to perform any job for which you're reasonably qualified, not just your current job. LTD benefits are also taxable if the company pays premiums. LTD can provide financial security for serious, long-term health conditions. Both STD and LTD require ongoing medical documentation to continue benefits - you'll need to provide periodic updates from your doctor confirming you're still disabled and unable to work.
+
+ENROLLMENT AND PREMIUM PAYMENT:
+Basic disability insurance (STD and LTD) is automatically provided to all employees at no cost - the company pays the premiums. You don't need to enroll - coverage begins on your first day of employment. You can purchase additional disability coverage if you want higher benefit amounts or shorter waiting periods. Additional coverage premiums are paid by you through payroll deduction. Supplemental disability coverage can provide: higher benefit percentages (e.g., 70% instead of 60%), shorter waiting periods, or longer benefit periods. You can enroll in supplemental coverage during open enrollment. Disability insurance is an important safety net - it protects your income if you're unable to work due to health issues.
+
+EMPLOYEE ASSISTANCE PROGRAM (EAP)
+
+COMPREHENSIVE SUPPORT SERVICES:
+The Employee Assistance Program (EAP) provides confidential support services to help you manage personal and work-related challenges. EAP services include: confidential counseling (individual, couples, family therapy), legal assistance (consultations with attorneys, document review, legal referrals), financial planning (budget counseling, debt management, financial education), work-life resources (childcare referrals, eldercare resources, relocation assistance), and crisis intervention (24/7 support for emergencies, critical incidents, trauma). EAP services are provided by licensed professionals and are completely confidential. The EAP is available to all employees and their family members (spouse, children, dependents) at no cost.
+
+COUNSELING SESSIONS AND USAGE:
+EAP provides 5 free counseling sessions per issue per year. An "issue" is defined as a specific problem or concern - for example, if you're dealing with anxiety, you get 5 sessions for that issue. If you later have a different issue (e.g., relationship problems), you get 5 more sessions for that new issue. Counseling sessions can be: in-person (at EAP provider locations), over the phone, or via video conference. You can choose the format that works best for you. EAP counselors are licensed mental health professionals who can help with: stress, anxiety, depression, relationship issues, grief, substance abuse, work conflicts, and many other concerns. If you need ongoing therapy beyond the 5 free sessions, the EAP can help you find providers and may offer discounted rates.
+
+ACCESS METHODS AND CONFIDENTIALITY:
+EAP is available 24/7 through multiple access methods: toll-free hotline (call anytime for immediate support or to schedule appointments), online portal (access resources, schedule appointments, chat with counselors), and mobile app (iOS and Android apps for easy access). All EAP services are completely confidential - the employer is never notified of your usage. Your manager, HR, and colleagues will not know you're using EAP services unless you choose to tell them. EAP usage is not tracked in your employee file and does not affect your employment in any way. The only exception to confidentiality is if there's an immediate threat of harm to yourself or others, in which case the EAP may need to involve appropriate authorities for safety.
+
+WELLNESS PROGRAMS AND INCENTIVES
+
+GYM REIMBURSEMENT PROGRAM:
+The company encourages physical fitness by reimbursing up to $50 per month for gym memberships or fitness classes. Eligible expenses include: gym or fitness club memberships, yoga classes, Pilates classes, personal training sessions, martial arts classes, dance classes, and other fitness-related activities. To receive reimbursement, submit receipts through the Wellness Portal within 60 days of the expense. Reimbursements are processed monthly and added to your paycheck. You can submit multiple receipts up to the $50 monthly limit (e.g., $30 gym membership + $20 yoga classes = $50 total). Reimbursements are considered taxable income and will appear on your W-2. The program is available to all employees regardless of health insurance enrollment.
+
+WELLNESS CHALLENGES AND ENGAGEMENT:
+The company runs quarterly wellness challenges to promote healthy habits and team engagement. Challenges may focus on: step counts (pedometer or fitness tracker steps), nutrition goals (healthy eating, meal planning), mindfulness and stress management (meditation, relaxation techniques), hydration (water intake goals), and sleep (sleep quality and duration tracking). Challenges typically run for 4-6 weeks and include: team competitions, individual goals, progress tracking through the Wellness Portal, and prizes for top performers (gift cards, company swag, extra vacation days, etc.). Participation is voluntary but encouraged. Challenges are designed to be fun, achievable, and promote long-term healthy habits. You can join challenges through the Wellness Portal or mobile app.
+
+HEALTH SCREENINGS AND PREVENTIVE CARE:
+The company provides annual health screenings and preventive care opportunities. Annual biometric screening measures: blood pressure, cholesterol, blood sugar, BMI, and other health indicators. Screenings are conducted on-site or at designated locations, and results are confidential (shared only with you). Flu shots are provided annually, typically in the fall, at no cost to employees. Health fairs are held quarterly, featuring: health information booths, free health screenings, wellness vendors, healthy snacks, and educational materials. Screenings and health fairs help you: understand your health status, identify potential health risks early, and take proactive steps to improve your health. Participation in screenings is voluntary but recommended.
+
+MENTAL HEALTH AND STRESS MANAGEMENT RESOURCES:
+The company recognizes the importance of mental health and provides various resources. Meditation and mindfulness apps are available at discounted rates or free through the EAP. Stress management workshops are offered quarterly, covering topics like: time management, work-life balance, coping strategies, and relaxation techniques. Mental health days are encouraged - you can use sick leave for mental health needs without stigma. The EAP provides confidential counseling for mental health concerns. Mental health resources are promoted throughout the year, not just during Mental Health Awareness Month. The company culture supports open discussion of mental health and encourages employees to prioritize their well-being.
+
+TUITION REIMBURSEMENT PROGRAM
+
+ELIGIBILITY AND EMPLOYMENT REQUIREMENT:
+You become eligible for tuition reimbursement after completing 1 year of employment with the company. The 1-year requirement ensures you're committed to the company before investing in your education. Tuition reimbursement is available for: job-related courses (courses that relate to your current role or a future role you're pursuing), degree programs (associate's, bachelor's, master's, or doctoral degrees), professional certifications (PMP, CPA, SHRM, etc.), and continuing education courses. The course or program must be from an accredited institution and must relate to your current job or a future role within the company. Courses that are purely personal interest (e.g., cooking classes, art classes) are not eligible unless they relate to your role.
+
+COVERAGE AMOUNTS AND TAX IMPLICATIONS:
+Tuition reimbursement covers up to $5,250 per year tax-free under IRS Section 127. This means the first $5,250 of reimbursement is not included in your taxable income - it's a true tax benefit. If your tuition costs exceed $5,250, the company will reimburse 75% of the additional amount, but amounts over $5,250 are taxable income. For example, if your tuition is $7,000: the first $5,250 is tax-free, the remaining $1,750 is reimbursed at 75% = $1,312.50, and that $1,312.50 is taxable income. The $5,250 limit resets each calendar year. You can receive reimbursement for multiple courses or programs as long as the total doesn't exceed the annual limit. Reimbursement is paid after you complete the course and submit proof of payment and grades.
+
+GRADE REQUIREMENTS AND COURSE APPROVAL:
+To receive reimbursement, you must maintain a grade of B or better (or equivalent - "Pass" for pass/fail courses, "Satisfactory" for satisfactory/unsatisfactory courses). If you receive a grade below B, you will not be reimbursed for that course. The course must be job-related - it should relate to your current role, a role you're pursuing, or skills that benefit the company. Before enrolling, you must get pre-approval through the Learning Portal. The pre-approval process includes: submitting course information (institution, course name, cost, dates), explaining how the course relates to your job, getting manager approval, and getting HR approval. Pre-approval ensures the course qualifies and helps you plan your education expenses. You can submit pre-approval requests at any time - you don't have to wait for a specific enrollment period.
+
+REIMBURSEMENT PROCESS AND REPAYMENT OBLIGATION:
+After completing a pre-approved course, submit your reimbursement request through the Learning Portal. You'll need to provide: proof of payment (receipts, invoices), official transcript or grade report showing B or better, and completion certificate (if applicable). Reimbursement is typically processed within 2-4 weeks and added to your next paycheck. If you leave the company within 2 years of receiving reimbursement, you must repay a pro-rated amount. For example, if you received $5,000 in reimbursement and leave after 1 year, you repay $2,500 (50% of the amount, since you worked 50% of the 2-year period). The repayment obligation encourages employees to stay with the company after receiving education benefits. Repayment is typically deducted from your final paycheck, or you may be required to repay it separately.
+
+EMPLOYEE SELF-SERVICE PORTAL
+-----------------------------
+
+PORTAL ACCESS AND LOGIN:
+
+The Employee Self-Service Portal is accessible at https://portal.hrsaas.com from any device with internet access. You log in using your company email address and the same password you use for your company email account. The portal uses single sign-on (SSO) technology, so once you're logged into your email, you may not need to log in again to the portal. The portal is available 24/7, though some features may have scheduled maintenance windows (typically announced in advance). The portal is optimized for desktop browsers (Chrome, Firefox, Safari, Edge) and also works on mobile browsers, though the mobile app (see below) provides a better mobile experience.
+
+PASSWORD RESET PROCESS:
+
+If you forget your password or need to reset it, click the "Forgot Password" link on the login page. You'll be prompted to enter your company email address. A password reset link will be sent to your email address within a few minutes. The reset link expires after 1 hour for security reasons. Click the link in the email to be taken to a secure page where you can create a new password. Your new password must meet security requirements: minimum 12 characters, include at least one uppercase letter, one lowercase letter, one number, and one special character. You cannot reuse your last 5 passwords. If you don't receive the reset email, check your spam/junk folder first, then contact IT Help Desk if it still doesn't arrive. If your account is locked due to multiple failed login attempts, contact IT Help Desk to unlock it.
+
+TWO-FACTOR AUTHENTICATION REQUIREMENT:
+
+All employees are required to use two-factor authentication (2FA) for enhanced security. 2FA adds an extra layer of protection beyond your password. When you log in, after entering your password, you'll be prompted for a verification code. You can receive this code through: an authenticator app (recommended - Google Authenticator, Microsoft Authenticator, Authy, etc.), SMS text message to your registered phone number, or email to your company email. Authenticator apps are recommended because they work even without phone service or internet (for the code generation). To set up 2FA, go to your profile settings in the portal, click "Security", and follow the setup instructions. You'll need to scan a QR code with your authenticator app or verify your phone number. Once set up, you'll need to enter a code from your authenticator app or phone every time you log in from a new device or browser.
+
+MOBILE APP ACCESS:
+
+The Employee Portal mobile app is available for iOS (iPhone/iPad) and Android devices. You can download it from the Apple App Store or Google Play Store by searching for "HR SaaS Employee Portal". The mobile app uses the same login credentials as the web portal. The app provides convenient access to: time-off requests and balances, pay stubs and tax forms, benefits information, time tracking (for hourly employees), expense submission, company directory, and notifications. The mobile app is particularly useful for: submitting time-off requests on the go, checking your pay stub, viewing your schedule, and receiving push notifications for important updates. The app requires iOS 12.0 or later, or Android 8.0 or later. Some features may be limited on the mobile app compared to the full web portal - use the web portal for complex tasks like benefits enrollment.
+
+PERSONAL INFORMATION MANAGEMENT:
+
+You can update most of your personal information directly in the portal at any time. To update your information, log into the portal, go to "My Profile" or "Personal Information", and click "Edit". You can update: home address, mailing address (if different), phone numbers (home, mobile, work), personal email (for notifications), and emergency contacts. Changes to your address or phone number take effect immediately and are used for: payroll processing, benefits administration, emergency contacts, and company communications. It's important to keep this information current, especially your address (for tax forms) and emergency contacts (for emergencies). Some information changes require HR approval or documentation - see below for name changes and other restricted updates.
+
+NAME CHANGES AND LEGAL UPDATES:
+
+If you need to change your legal name (due to marriage, divorce, court order, etc.), you must submit a request through the portal and provide supporting documentation. To request a name change: log into the portal, go to "Personal Information", click "Request Name Change", enter your new name, upload required documentation (marriage certificate, divorce decree, court order, etc.), and submit for HR approval. HR will review your request and documentation, typically within 3-5 business days. Once approved, your name will be updated across all systems: email, payroll, benefits, directory, etc. You may need to update your email address if it contains your name. Name changes for reasons other than legal name changes (e.g., preferred name, nickname) can often be handled differently - contact HR to discuss your situation. Some systems may take a few days to fully update your name everywhere.
+
+DIRECT DEPOSIT MANAGEMENT:
+
+You can add, change, or remove direct deposit bank accounts through the portal. To manage direct deposit: log into the portal, go to "Payroll" section, click "Direct Deposit", and follow the prompts. You can set up multiple bank accounts and specify how much of your paycheck goes to each account (e.g., 80% to checking, 20% to savings). You'll need: bank name, account type (checking or savings), account number, and routing number. The routing number is a 9-digit number that identifies your bank - you can find it on your checks or by contacting your bank. Changes to direct deposit take effect for the next pay period after submission. For example, if you submit a change on Monday and payday is Friday, the change applies to the following Friday's paycheck. You can verify your direct deposit information is correct before each payday. If you need to change it urgently (e.g., account was closed), contact Payroll immediately.
+
+TAX WITHHOLDING UPDATES:
+
+You can update your tax withholding (W-4 information) at any time through the portal. To update withholding: go to "Payroll" section, click "Tax Withholding" or "W-4", and update your information. You can change: filing status (single, married filing jointly, married filing separately, head of household), number of allowances, additional withholding amount, and exemptions. Changes to withholding take effect in your next paycheck after submission. The IRS provides a withholding calculator on their website (irs.gov) to help you determine the right withholding amount based on your situation. Common reasons to adjust withholding include: getting married or divorced, having a child, buying a house (mortgage interest deduction), or wanting to change your refund amount. If you're unsure about your withholding, consult a tax professional or use the IRS calculator. HR can provide basic guidance but cannot provide tax advice.
+
+EMERGENCY CONTACTS REQUIREMENT:
+
+You must maintain at least 2 emergency contacts in the portal at all times. Emergency contacts are people the company can contact if you have a medical emergency, workplace incident, or other urgent situation. To add or update emergency contacts: go to "Personal Information", click "Emergency Contacts", and add/edit contacts. For each contact, provide: full name, relationship to you (spouse, parent, sibling, friend, etc.), phone number (primary and alternate if available), and email address (optional but recommended). It's important to keep emergency contact information current - if someone's phone number changes, update it immediately. Emergency contacts should be people who: can be reached quickly, know how to reach your family members, and can make decisions on your behalf if needed. You can designate one contact as "primary" who will be contacted first. Review and update your emergency contacts at least annually or whenever contact information changes.
+
+DOCUMENT ACCESS AND RETRIEVAL:
+
+The portal provides secure access to all your employment-related documents. Pay stubs are available 2 days before each payday and can be viewed or downloaded as PDFs. You can access pay stubs from the last 2 years - older pay stubs may be archived and require a request to Payroll. Tax forms (W-2, 1099) are available by January 31st each year for the previous tax year. You can download tax forms as PDFs and access forms from the previous 7 years. Benefits statements show your current benefit enrollments, coverage details, and costs. You'll receive an annual benefits summary each year during open enrollment. Performance reviews are stored in the portal and accessible to you and your manager. You can view: past performance reviews, current goals and objectives, feedback and ratings, and development plans. Training certificates are available for all completed training, including: required compliance training, role-specific training, professional development courses, and certifications. You can download certificates as PDFs for your records or to share with external parties if needed.
+
+TIME AND ATTENDANCE
+-------------------
+
+TIME TRACKING AND TIMESHEET MANAGEMENT
+
+DAILY TIME ENTRY REQUIREMENTS:
+
+Non-exempt (hourly) employees must log their hours daily through the Time & Attendance module in the Employee Portal. Daily time entry ensures accuracy and helps you track your hours throughout the week. To enter time, log into the portal, go to "Time & Attendance", select the date, and enter: start time, end time, break duration (if applicable), and any time-off taken. You can also enter time for multiple days at once if you prefer, but daily entry is recommended to avoid forgetting hours. The system automatically calculates total hours for each day and for the week. You can enter time in different formats: decimal (8.5 hours) or hours:minutes (8:30). The system will show your running total for the week, so you can see if you're approaching 40 hours and need overtime approval. If you forget to enter time for a day, you can go back and enter it later, but try to enter it as soon as possible to maintain accuracy.
+
+WEEKLY TIMESHEET SUBMISSION:
+
+Timesheets must be submitted by the end of day Friday (11:59 PM) for the previous week's work. The workweek runs Monday through Sunday. For example, the timesheet covering Monday, January 1st through Sunday, January 7th must be submitted by Friday, January 12th. To submit your timesheet: review all time entries for the week, verify hours are correct, ensure any overtime is approved (see below), and click "Submit Timesheet". Once submitted, you cannot edit the timesheet yourself - you'll need to request a correction if you find an error. The system will prevent submission if: required days are missing time entries, there are obvious errors (e.g., 25 hours in one day), or unapproved overtime is present. If you're unable to submit by the deadline due to an emergency, contact your manager immediately - late submissions may delay your paycheck.
+
+MANAGER APPROVAL PROCESS:
+
+Managers must approve timesheets by Monday at 5:00 PM following the submission deadline. When you submit your timesheet, your manager receives an email notification and a notification in their manager portal. Managers can: approve the timesheet as-is, reject it with comments (requiring you to make corrections), or request modifications. If your manager doesn't approve by Monday 5 PM, the system sends reminder notifications. If approval is still pending, Payroll may contact your manager directly, as delayed approvals can delay payroll processing. Once approved, your timesheet is locked and sent to Payroll for processing. You'll receive a confirmation email when your timesheet is approved. If your timesheet is rejected, review your manager's comments, make the necessary corrections, and resubmit. You can see the status of your timesheet (pending, approved, rejected) in the portal.
+
+TIMESHEET CORRECTIONS AND AMENDMENTS:
+
+If you discover an error in a submitted or approved timesheet, you can request a correction within 7 days of the original submission deadline. To request a correction: go to "Time & Attendance", find the timesheet, click "Request Correction", explain the error and what needs to be changed, and submit for manager approval. Common corrections include: forgot to enter hours for a day, entered wrong start/end times, forgot to deduct break time, or need to add missed overtime hours. Corrections require manager approval - your manager will review the request and approve or deny it. If approved, the correction is processed and may result in an adjustment to your next paycheck (if hours were under-reported) or a deduction (if hours were over-reported). Corrections requested after the 7-day window may require additional documentation and HR approval. It's important to review your timesheet carefully before submitting to minimize corrections.
+
+OVERTIME TRACKING AND APPROVAL:
+
+The system automatically flags any hours over 40 per week as potential overtime. If you have more than 40 hours in a week, the system will: highlight the overtime hours, require you to confirm the overtime was pre-approved by your manager, and prevent submission until overtime approval is confirmed. Overtime must be pre-approved by your manager before you work the extra hours (see Overtime Policy in Attendance section). If you worked overtime without pre-approval, you'll still be paid for it, but you may face disciplinary action. When entering overtime, the system will show: regular hours (up to 40), overtime hours (over 40), and total hours. Overtime is paid at 1.5 times your regular hourly rate. The system calculates overtime pay automatically, but you can verify it on your pay stub. If you have questions about overtime calculation or approval, contact your manager or Payroll.
+
+TIME-OFF REQUEST TYPES AND USAGE:
+
+You can request various types of time off through the Time & Attendance module. Available request types include: Vacation (planned time off, requires advance notice), Sick Leave (illness, medical appointments, caring for sick family), Personal Days (personal matters, appointments), Bereavement Leave (death in family), Jury Duty (court service - provide jury summons), FMLA Leave (family and medical leave - requires HR coordination), and Other (unpaid leave, sabbaticals, etc. - may require HR approval). Each request type has different rules regarding: advance notice requirements, approval processes, documentation needs, and accrual/balance requirements. When submitting a request, select the appropriate type - the system will apply the correct rules and check your available balance for that leave type. You can request full days, half-days, or specific hours depending on the leave type and your needs.
+
+TIME-OFF REQUEST SUBMISSION PROCESS:
+
+To submit a time-off request, log into the portal, go to "Time & Attendance", click "Request Time Off", and complete the request form. You'll need to provide: leave type (vacation, sick, etc.), start date and end date (or specific dates if not consecutive), number of days/hours requested, reason (brief description - optional for some types, required for others), and any comments for your manager. The system will automatically: check your available balance for the selected leave type, verify the dates are valid (not in the past, within accrual limits, etc.), check for conflicts (other requests, blackout periods, etc.), and calculate the impact on your balance. If you don't have sufficient balance, the system will warn you and may prevent submission (depending on leave type - some allow going negative). You can submit multiple requests at once if you're planning several time-off periods. After submission, you'll receive a confirmation email with your request details.
+
+MANAGER APPROVAL AND RESPONSE TIMELINE:
+
+When you submit a time-off request, your manager receives an email notification and a notification in their manager portal. Managers are expected to respond within 3 business days. Managers can: approve the request (it's added to your calendar and balance is deducted), reject the request (with comments explaining why - you'll receive an email), or request modifications (ask you to change dates, etc.). If your manager doesn't respond within 3 business days, the system sends a reminder. If there's still no response after 5 business days, the request may be auto-approved (depending on company policy and request type). However, managers can still override auto-approved requests if business needs require it. You'll receive email notifications when your request is approved, rejected, or modified. Approved requests are automatically reflected in: your time-off balance, the team calendar, and your personal calendar. If your request is rejected, review your manager's comments and discuss alternatives if needed.
+
+TEAM CALENDAR AND CONFLICT CHECKING:
+
+The portal includes a team calendar view that shows all team members' approved time-off requests. This helps you: see when colleagues are out, check for potential conflicts before requesting time off, plan coverage for your own time off, and coordinate team schedules. To view the team calendar, go to "Time & Attendance", click "Team Calendar", and select your team or department. The calendar shows: approved time-off requests (color-coded by type), pending requests (if you have permission to see them), and blackout periods or company holidays. Before submitting a request, you can check the calendar to see if multiple team members are already out, which might affect approval. The calendar view helps managers make informed decisions about time-off requests by seeing team coverage. You can also sync the calendar with your personal calendar (Google Calendar, Outlook, etc.) to see company holidays and your approved time off in one place.
+
+REAL-TIME BALANCE TRACKING:
+
+The portal displays your time-off balances in real-time, so you always know how much time you have available. To view your balances, go to "Time & Attendance", click "My Balances" or "Time Off Summary". The display shows: Vacation balance (accrued, used, available, pending), Sick Leave balance, Personal Days balance, and other leave types you're eligible for. For each balance, you'll see: current balance (how much you have now), pending requests (time off that's approved but not yet taken), accrual rate (how much you earn per month), next accrual date (when you'll receive more time), and expiration dates (if applicable - e.g., personal days expire at year-end). Balances update automatically when: you accrue new time (monthly), you use time off, requests are approved, or corrections are made. You can view balance history to see how your balance has changed over time. The system also shows projected balances (how much you'll have at future dates) to help with planning.
+
+EXPENSE REIMBURSEMENT
+----------------------
+
+ELIGIBLE EXPENSES AND CATEGORIES:
+
+Business expenses that are necessary and reasonable for conducting company business are eligible for reimbursement. Eligible expense categories include:
+
+Business Travel Expenses:
+When traveling for business (conferences, client meetings, training, etc.), you can be reimbursed for: airfare (economy class for domestic, business class for international flights over 8 hours), hotel accommodations (reasonable rates based on location), meals (see meal limits below), ground transportation (rental cars, taxis, rideshare, public transit), parking fees, tolls, baggage fees (if checking bags is necessary), and travel-related incidentals (tips, phone calls, internet access fees). Travel expenses must be for legitimate business purposes - personal side trips or extended stays for personal reasons are not reimbursable.
+
+Client Entertainment Expenses:
+Expenses incurred while entertaining clients or prospects are eligible, including: meals with clients (breakfast, lunch, dinner), event tickets (sports, concerts, shows - must be reasonable and business-related), entertainment activities (golf, dinners, etc.), and gifts to clients (must be reasonable and comply with company gift policy - typically under $100). Client entertainment must have a clear business purpose and involve actual clients or prospects. You should document who attended and the business purpose of the entertainment.
+
+Professional Development Expenses:
+Expenses related to your professional growth and development are eligible, including: conference registration fees, training course fees, certification exam fees, professional association dues (if job-related), and educational materials (books, online courses, etc.). Professional development expenses should relate to your current role or a role you're pursuing within the company. Some expenses may require pre-approval - check with your manager before incurring large expenses.
+
+Equipment and Supplies:
+Business-related equipment and supplies may be eligible with pre-approval, including: computer equipment (if not provided by company), software licenses (if not available through company), office supplies (if working remotely and not available through company), and specialized tools or equipment needed for your role. Equipment purchases typically require: pre-approval from your manager, justification for why company-provided equipment isn't sufficient, and may become company property. Contact your manager and Finance before making equipment purchases to ensure they're eligible.
+
+Meal Expenses and Receipt Requirements:
+Business meals are eligible when: traveling for business, working late (after 7 PM) and unable to go home for dinner, attending business meetings over meal times, or entertaining clients. Meal expenses over $25 require a detailed receipt showing: restaurant name, date, items purchased, and total amount. For meals under $25, a credit card receipt or simple receipt is sufficient. Tips are included in the meal limit - you cannot add tips on top of the limit. Alcohol is generally not reimbursable unless it's part of client entertainment and reasonable. Meal expenses must be reasonable - extravagant meals may be questioned or denied.
+
+EXPENSE SUBMISSION PROCESS AND DEADLINES:
+
+Expenses must be submitted within 30 days of incurring the cost. This deadline ensures timely processing and accurate record-keeping. To submit expenses: log into the Expense Portal (accessible through the Employee Portal), click "New Expense Report", enter expense details (date, amount, category, description), attach receipts (scan or photo - must be legible), select the appropriate expense category, and submit for approval. You can submit multiple expenses in one report or submit them individually. It's recommended to submit expenses as soon as possible after incurring them to avoid missing the deadline. Expenses submitted after 30 days may still be processed but may require additional justification and manager approval. If you're traveling for an extended period, you can submit expenses during your trip or wait until you return, as long as you submit within 30 days of each expense.
+
+DOCUMENTATION REQUIREMENTS AND RECEIPT MANAGEMENT:
+
+All expenses over $25 require a detailed receipt. Receipts should show: vendor name, date of purchase, items/services purchased, and total amount paid. For expenses under $25, a credit card statement or simple receipt is sufficient. Receipts can be submitted as: scanned PDFs, photos from your phone (must be clear and legible), or digital receipts (emailed receipts from vendors). The Expense Portal allows you to attach multiple receipts to an expense report. Keep original receipts for your records in case there are questions. If you lose a receipt, contact the vendor to request a duplicate - most vendors can provide one. For expenses where receipts aren't available (parking meters, tolls, etc.), provide as much documentation as possible and explain the situation. Missing receipts may result in denial of reimbursement, so it's important to keep all receipts organized.
+
+APPROVAL WORKFLOW AND PROCESSING:
+
+Expense reports follow a two-step approval process. First, your direct manager reviews and approves the expenses. Managers verify: expenses are legitimate business expenses, amounts are reasonable, receipts are provided, and expenses comply with company policy. Managers can: approve the entire report, approve individual expenses (rejecting others), or request additional documentation. Once your manager approves, the expense report goes to Finance for final review and processing. Finance verifies: calculations are correct, receipts match expenses, expenses comply with tax and accounting requirements, and payment can be processed. Finance typically processes approved expenses within 3-5 business days. You'll receive email notifications at each step: when your manager approves, when Finance processes payment, and when payment is included in your paycheck.
+
+REIMBURSEMENT PAYMENT TIMELINE:
+
+Reimbursed expenses are included in your next regular paycheck after approval. The typical timeline is: you submit expenses (Day 1), manager approves within 2-3 business days (Day 3-4), Finance processes within 3-5 business days (Day 6-9), and payment appears in your next paycheck (typically 1-2 weeks after Finance processing). For example, if you submit expenses on Monday and they're approved by Wednesday, Finance processes by the following Monday, and you receive payment in your paycheck on the following Friday (assuming bi-weekly pay). Reimbursements are included as a separate line item on your pay stub, so you can see exactly what you're being reimbursed for. If you need reimbursement faster (e.g., for large travel expenses), contact Finance - they may be able to process an expedited payment, though this is not guaranteed.
+
+EXPENSE LIMITS AND REASONABLE AMOUNTS:
+
+The company has established expense limits to ensure reasonable spending while allowing flexibility for business needs. These limits are guidelines - expenses slightly over limits may be approved with justification, while expenses significantly over limits will likely be denied.
+
+Meal Expense Limits:
+For business travel, meals are limited to $75 per day total (breakfast, lunch, dinner combined). This includes all meals, snacks, and beverages. For client entertainment meals, the limit is $50 per person (you can spend more if multiple people, but average per person should be around $50). These limits are designed to cover reasonable meal costs in most locations. In high-cost areas (New York, San Francisco, etc.), slightly higher amounts may be approved with justification. Tips are included in these limits - you cannot add 20% tip on top of the limit. Alcohol is generally not reimbursable unless it's part of client entertainment and reasonable.
+
+Hotel and Lodging Limits:
+Hotel expenses should be reasonable for the location. Typical limits are: $150-200 per night for standard business travel, $200-300 per night for major cities (New York, San Francisco, etc.), and up to $400 per night for international travel or special circumstances. When booking hotels, choose reasonable accommodations - you don't need to stay at the cheapest option, but luxury hotels typically aren't approved unless there's a business reason (client meetings at the hotel, etc.). If you need to exceed these limits, get pre-approval from your manager and provide justification. Extended stays may have different limits - discuss with your manager.
+
+Travel and Transportation Limits:
+Airfare should be economy class for domestic flights and business class for international flights over 8 hours. If you want to upgrade to business class for domestic flights or first class, you'll need to pay the difference yourself. Rental cars should be mid-size or standard size - luxury or large SUVs require justification. Ground transportation (taxis, rideshare) should be reasonable - use rideshare for short trips, taxis when necessary, and avoid excessive costs. Mileage reimbursement for personal vehicle use is $0.655 per mile (current IRS rate, updated annually). This covers gas, wear and tear, and other vehicle costs - you cannot also claim gas receipts.
+
+Miscellaneous Expense Guidelines:
+Parking should be reasonable for the location - expensive valet parking may require justification. Internet access fees at hotels are typically reimbursable if needed for work. Phone calls should be for business purposes - personal calls are not reimbursable. Gifts to clients should be reasonable (typically under $100) and comply with company gift policy. Conference fees, training costs, and professional development expenses should be pre-approved for large amounts (over $500). When in doubt about whether an expense is reasonable or eligible, ask your manager or Finance before incurring the cost.
+
+PERFORMANCE MANAGEMENT
+---------------------
+
+ANNUAL PERFORMANCE REVIEWS
+- Schedule: Conducted annually in Q4, covers previous 12 months
+- Process: Self-assessment, manager review, goal setting for next year
+- Rating Scale: Exceeds Expectations, Meets Expectations, Needs Improvement, Unsatisfactory
+- Outcomes: Determines salary adjustments, bonus eligibility, promotion consideration
+- Documentation: Review saved in system, accessible to employee and HR
+
+GOAL SETTING
+- Annual Goals: Set at beginning of year, aligned with company objectives
+- Quarterly Check-ins: Review progress quarterly, adjust goals as needed
+- SMART Goals: Goals must be Specific, Measurable, Achievable, Relevant, Time-bound
+- Process: Set through Performance Portal, manager approves, track progress
+
+FEEDBACK AND DEVELOPMENT
+- Continuous Feedback: Managers provide ongoing feedback, not just annual reviews
+- 360 Feedback: Optional peer feedback process, available twice per year
+- Development Plans: Create individual development plans, identify growth opportunities
+- Mentorship: Access to mentorship program, match with senior employees
+
+CAREER DEVELOPMENT
+-----------------
+
+INTERNAL MOBILITY
+- Job Postings: All open positions posted internally for 5 days before external posting
+- Application Process: Apply through Internal Careers Portal, notify current manager
+- Interview Process: Internal candidates get priority consideration, streamlined process
+- Transfer Policy: Must be in current role 12 months before transferring (exceptions with VP approval)
+
+PROMOTION PROCESS
+- Eligibility: Typically requires 18-24 months in current role, strong performance
+- Criteria: Performance ratings, skills assessment, business need, leadership potential
+- Process: Manager nominates, HR reviews, interview with hiring manager and team
+- Timeline: Promotions typically effective at start of quarter or fiscal year
+
+TRAINING AND DEVELOPMENT
+- Onboarding: 2-week structured onboarding program for all new hires
+- Role-Specific Training: Department-specific training, tools and systems training
+- Leadership Development: Programs for managers and high-potential employees
+- External Training: Access to conferences, workshops, online courses
+- Learning Portal: Centralized access to all training materials and resources
+
+COMPLIANCE AND POLICIES
+-----------------------
+
+CODE OF CONDUCT
+- Standards: High ethical standards, integrity, respect, professionalism
+- Conflicts of Interest: Must disclose any potential conflicts, cannot engage in competing business
+- Gifts and Entertainment: Cannot accept gifts over $50, must report any offers
+- Confidentiality: Must maintain confidentiality of company and customer information
+- Reporting: Report violations through Ethics Hotline or HR, no retaliation for reporting
+
+HARASSMENT AND DISCRIMINATION POLICY
+- Zero Tolerance: Zero tolerance for harassment, discrimination, or retaliation
+- Protected Classes: Prohibited discrimination based on race, gender, age, religion, disability, etc.
+- Reporting: Report to HR, manager, or Ethics Hotline, multiple reporting channels available
+- Investigation: All reports investigated promptly and thoroughly
+- Consequences: Violations result in disciplinary action up to and including termination
+
+WORKPLACE SAFETY
+- Safety Protocols: Follow all safety protocols, report hazards immediately
+- Emergency Procedures: Know evacuation routes, assembly points, emergency contacts
+- Incident Reporting: Report all workplace injuries or incidents within 24 hours
+- Safety Training: Required annual safety training for all employees
+- Equipment: Use equipment properly, report malfunctions, do not use damaged equipment
+
+DATA SECURITY AND PRIVACY
+- Password Policy: Strong passwords required, change every 90 days, no sharing
+- Data Access: Access only data necessary for job function, follow least privilege principle
+- Remote Access: Use company VPN, secure connections, no public WiFi for work
+- Phishing: Be vigilant about phishing emails, report suspicious emails to IT
+- Data Handling: Follow data classification guidelines, secure sensitive information
+
+SYSTEM FEATURES AND FUNCTIONALITY
+----------------------------------
+
+ORGANIZATIONAL CHART
+- Access: View company org chart through Employee Portal
+- Updates: Automatically updated when organizational changes occur
+- Search: Search by name, department, or role
+- Contact Information: View contact information for colleagues
+
+EMPLOYEE DIRECTORY
+- Search: Search employees by name, department, location, role
+- Profiles: View employee profiles, skills, contact information
+- Teams: See team structures, reporting relationships
+- Privacy: Can opt-out of directory listing for privacy
+
+RECRUITMENT AND ONBOARDING
+- Job Postings: View all open positions, internal and external
+- Application Tracking: Track application status, interview schedules
+- Onboarding Checklist: New hires complete onboarding tasks through portal
+- Documentation: Submit required documents (I-9, W-4, direct deposit) through portal
+
+REPORTING AND ANALYTICS
+- Time Reports: Managers can run time and attendance reports
+- Expense Reports: Finance can generate expense reports by department or employee
+- Benefits Reports: HR can generate benefits enrollment and utilization reports
+- Custom Reports: Request custom reports through HR or Finance
+
+TROUBLESHOOTING AND SUPPORT
+---------------------------
+
+LOGIN ISSUES
+- Problem: Cannot log in to Employee Portal
+- Solutions: 
+  * Reset password using "Forgot Password" link
+  * Clear browser cache and cookies
+  * Try different browser (Chrome, Firefox, Safari)
+  * Check if account is locked (contact IT if locked)
+- Support: Contact IT Help Desk at helpdesk@hrsaas.com or 1-800-555-HELP
+
+PASSWORD RESET
+- Process: Click "Forgot Password" on login page, enter email, follow reset link
+- Time Limit: Reset link expires after 1 hour
+- Requirements: New password must be 12+ characters, include uppercase, lowercase, number, special character
+- Issues: If reset link doesn't arrive, check spam folder, contact IT if still not received
+
+SYSTEM ACCESS PROBLEMS
+- Problem: Cannot access specific module or feature
+- Solutions:
+  * Check if you have required permissions (contact manager or HR)
+  * Clear browser cache
+  * Try incognito/private browsing mode
+  * Update browser to latest version
+- Support: Contact IT Help Desk, provide screenshot of error message
+
+PAYROLL ISSUES
+- Problem: Missing or incorrect paycheck
+- Solutions:
+  * Check pay stub in portal for details
+  * Verify time entries were submitted and approved
+  * Check if direct deposit account is correct
+  * Contact Payroll at payroll@hrsaas.com
+- Timeline: Payroll issues resolved within 2 business days
+
+BENEFITS ENROLLMENT ISSUES
+- Problem: Cannot enroll in benefits or changes not reflected
+- Solutions:
+  * Check if within open enrollment period
+  * Verify eligibility (90 days for 401k, etc.)
+  * Clear browser cache and try again
+  * Contact Benefits Administrator at benefits@hrsaas.com
+- Documentation: May need to submit supporting documents (marriage certificate, etc.)
+
+TIME TRACKING PROBLEMS
+- Problem: Cannot submit timesheet or time entries missing
+- Solutions:
+  * Check if timesheet is locked (contact manager to unlock)
+  * Verify dates are correct
+  * Check if manager has approved previous timesheet
+  * Contact Time & Attendance support
+- Deadlines: Timesheets must be submitted by Friday 5 PM, corrections within 7 days
+
+SUPPORT CONTACTS
+---------------
+
+IT HELP DESK
+- Email: helpdesk@hrsaas.com
+- Phone: 1-800-555-HELP (ext. 1)
+- Hours: Monday-Friday, 7:00 AM - 7:00 PM EST
+- Response Time: Within 2 hours during business hours
+
+HR SUPPORT
+- Email: hr@hrsaas.com
+- Phone: 1-800-555-HELP (ext. 2)
+- Hours: Monday-Friday, 8:00 AM - 6:00 PM EST
+- Response Time: Within 24 hours for non-urgent, same day for urgent matters
+
+PAYROLL SUPPORT
+- Email: payroll@hrsaas.com
+- Phone: 1-800-555-HELP (ext. 3)
+- Hours: Monday-Friday, 9:00 AM - 5:00 PM EST
+- Response Time: Within 2 business days
+
+BENEFITS SUPPORT
+- Email: benefits@hrsaas.com
+- Phone: 1-800-555-HELP (ext. 4)
+- Hours: Monday-Friday, 8:00 AM - 6:00 PM EST
+- Response Time: Within 2 business days
+
+ETHICS HOTLINE
+- Phone: 1-800-555-ETHICS (toll-free, 24/7)
+- Online: ethics.hrsaas.com
+- Confidential: Anonymous reporting available
+- Response: All reports investigated within 5 business days
+
+FREQUENTLY ASKED QUESTIONS
+--------------------------
+
+Q: How do I request time off?
+A: Log into Employee Portal, go to Time & Attendance module, click "Request Time Off", select dates and type, submit for manager approval.
+
+Q: When will I receive my W-2?
+A: W-2 forms are available in Employee Portal by January 31st each year. You'll receive email notification when available.
+
+Q: How do I change my direct deposit information?
+A: Log into Employee Portal, go to Payroll section, click "Direct Deposit", add or update bank account information. Changes take effect next pay period.
+
+Q: Can I work from home?
+A: Remote work is available for eligible roles with manager approval. Submit Remote Work Agreement through portal for approval.
+
+Q: How do I enroll in health insurance?
+A: During open enrollment (November 1-15) or within 30 days of hire, go to Benefits section in portal, compare plans, select plan, and enroll.
+
+Q: What is the company's 401k matching policy?
+A: Company matches 50% of your contributions up to 6% of salary. You contribute 6%, company contributes 3% (effective match).
+
+Q: How do I submit expense reimbursement?
+A: Log into Expense Portal, click "New Expense Report", enter expenses, attach receipts, submit for manager approval.
+
+Q: How do I update my personal information?
+A: Log into Employee Portal, go to Profile section, update information (address, phone, emergency contacts), save changes.
+
+Q: What should I do if I'm having login issues?
+A: Click "Forgot Password" to reset, clear browser cache, try different browser, or contact IT Help Desk at helpdesk@hrsaas.com.
+
+Q: How do I access my pay stubs?
+A: Log into Employee Portal, go to Payroll section, click "Pay Stubs", view or download pay stubs from last 2 years.
+
+Q: What is the process for performance reviews?
+A: Annual reviews conducted in Q4. Complete self-assessment, manager provides review, set goals for next year. Reviews determine salary adjustments.
+
+Q: Can I transfer to a different department?
+A: Yes, after 12 months in current role. View open positions in Internal Careers Portal, apply, notify current manager.
+
+Q: How do I report a workplace issue or concern?
+A: Report to your manager, HR, or Ethics Hotline (1-800-555-ETHICS). All reports are confidential and investigated.
+
+Q: What benefits are available to part-time employees?
+A: Part-time employees (20+ hours/week) eligible for prorated vacation, sick leave, and can enroll in health insurance.
+
+Q: How do I request equipment or accommodations?
+A: Submit request through Employee Portal under "Resources" section, or contact HR directly for accommodations under ADA.
+
+Q: What is the dress code policy?
+A: Business casual dress code. No specific uniform required, but professional appearance expected. Check with manager for department-specific guidelines.
+
+Q: How do I access training materials?
+A: Log into Learning Portal, browse available courses, enroll in courses, track progress, download certificates upon completion.
+
+Q: What is the process for taking FMLA leave?
+A: Submit FMLA request through Benefits Portal at least 30 days before leave (or as soon as possible for emergencies). HR will provide required forms and guide you through process.
+
+Q: How do I view my benefits enrollment?
+A: Log into Employee Portal, go to Benefits section, view current enrollments, coverage details, and beneficiaries.
+
+Q: What should I do if my timesheet is rejected?
+A: Review manager's comments, make corrections, resubmit. Contact manager if you have questions about rejection reason.
+
+COMPLIANCE AND LEGAL
+--------------------
+
+FMLA (FAMILY AND MEDICAL LEAVE ACT)
+- Eligibility: 12 months of service, 1,250 hours worked in previous 12 months
+- Entitlement: Up to 12 weeks unpaid leave per year
+- Qualifying Reasons: Birth/adoption, serious health condition, care for family member
+- Process: Submit request through Benefits Portal, HR provides required forms
+- Job Protection: Position guaranteed upon return, same or equivalent position
+- Benefits: Health insurance continues during leave, employee pays premiums
+
+ADA (AMERICANS WITH DISABILITIES ACT)
+- Accommodations: Reasonable accommodations provided for qualified employees with disabilities
+- Process: Request through HR, provide medical documentation if needed
+- Examples: Modified work schedule, assistive technology, workspace modifications
+- Confidentiality: Medical information kept confidential, shared only on need-to-know basis
+
+EEOC COMPLIANCE
+- Equal Opportunity: Equal employment opportunity regardless of race, gender, age, religion, disability, etc.
+- Reporting: Report discrimination or harassment immediately to HR or Ethics Hotline
+- Investigation: All complaints investigated promptly and thoroughly
+- Non-Retaliation: No retaliation for reporting in good faith
+
+WORKERS' COMPENSATION
+- Coverage: All work-related injuries covered by workers' compensation insurance
+- Reporting: Report injury to manager and HR within 24 hours
+- Medical Care: Company provides medical care through designated providers
+- Benefits: Wage replacement, medical expenses, rehabilitation if needed
+- Process: Complete incident report, seek medical attention, follow treatment plan
+
+TERMINATION AND SEPARATION
+--------------------------
+
+VOLUNTARY RESIGNATION
+- Notice Period: 2 weeks' notice preferred, submit resignation letter to manager and HR
+- Exit Interview: HR conducts exit interview, feedback confidential
+- Final Paycheck: Received on next regular payday, includes accrued vacation
+- Benefits: Health insurance continues through end of month, COBRA available
+- 401k: Can leave in plan, roll over to new employer, or cash out (taxable)
+
+INVOLUNTARY TERMINATION
+- Process: HR and manager conduct termination meeting, explain reason
+- Final Paycheck: Received within 2 business days (state law dependent)
+- Benefits: COBRA available for health insurance, 401k options same as voluntary
+- Severance: May be offered based on circumstances and company policy
+- References: Company provides employment verification, dates of employment only
+
+COBRA CONTINUATION COVERAGE
+- Eligibility: Available to employees and dependents after termination or reduction in hours
+- Duration: Up to 18 months (36 months for dependents in certain situations)
+- Cost: Employee pays full premium plus 2% administrative fee
+- Enrollment: Must enroll within 60 days of qualifying event
+- Process: Receive COBRA notice, complete enrollment form, pay premiums
+
+RETIREMENT
+- Eligibility: Can retire at any age, but 401k withdrawals penalty-free after 59.5
+- Notice: Provide 30-60 days' notice to manager and HR
+- Benefits: Retirees can continue health insurance through COBRA or retiree plan if available
+- 401k: Can leave in plan, roll over to IRA, or take distributions
+- Process: Schedule retirement meeting with HR, discuss benefits and options
+
+This comprehensive FAQ document covers all aspects of the HR SaaS platform, including employee policies, benefits, procedures, system features, troubleshooting, and compliance. The document is designed to answer both internal employee questions and external customer support inquiries about the HR SaaS system.
