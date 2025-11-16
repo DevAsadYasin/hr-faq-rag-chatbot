@@ -1,7 +1,14 @@
 import logging
 import sys
+import os
 from pathlib import Path
 from datetime import datetime
+
+if __name__ == "__main__":
+    project_root = Path(__file__).parent.parent
+    os.environ["PYTHONPATH"] = str(project_root)
+    if str(project_root) not in sys.path:
+        sys.path.insert(0, str(project_root))
 
 from langchain_community.document_loaders import (
     TextLoader,
@@ -18,31 +25,16 @@ from langchain_core.documents import Document
 import tiktoken
 from tqdm import tqdm
 
-from config import (
-    FAQ_DOCUMENT_PATH,
-    EMBEDDINGS_PATH,
-    EMBEDDING_MODEL,
-    LOCAL_EMBEDDING_MODEL,
-    CHUNK_SIZE,
-    CHUNK_OVERLAP,
-    CHUNKING_METHOD,
-    TOKEN_ENCODING,
-    DOCUMENT_ID,
-    SIMILARITY_METRIC,
-    OPENAI_API_KEY,
-    BATCH_SIZE,
-    ENABLE_PROGRESS_BAR,
-    ENABLE_VERIFICATION,
-    VERIFICATION_QUERIES,
-    USE_ANN,
-    ANN_INDEX_TYPE,
-    ANN_THRESHOLD,
-    SUPPORTED_DOCUMENT_FORMATS,
+from src.config import (
+    FAQ_DOCUMENT_PATH, EMBEDDINGS_PATH, EMBEDDING_MODEL, LOCAL_EMBEDDING_MODEL,
+    CHUNK_SIZE, CHUNK_OVERLAP, CHUNKING_METHOD, TOKEN_ENCODING, DOCUMENT_ID,
+    SIMILARITY_METRIC, OPENAI_API_KEY, BATCH_SIZE, ENABLE_PROGRESS_BAR,
+    ENABLE_VERIFICATION, VERIFICATION_QUERIES, USE_ANN, ANN_INDEX_TYPE,
+    ANN_THRESHOLD, SUPPORTED_DOCUMENT_FORMATS,
 )
-from utils import retry_with_backoff, validate_vector_dimensions
-from metadata_extractor import extract_metadata_from_chunk
+from src.utils import retry_with_backoff, validate_vector_dimensions
+from src.metadata_extractor import extract_metadata_from_chunk
 
-# Setup logging
 logging.basicConfig(
     level=logging.INFO,
     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',

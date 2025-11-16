@@ -14,25 +14,20 @@ LOGS_DIR = OUTPUTS_DIR / "logs"
 EMBEDDINGS_DIR.mkdir(parents=True, exist_ok=True)
 LOGS_DIR.mkdir(parents=True, exist_ok=True)
 
-# LLM Provider API Keys
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 OPENAI_ORG_ID = os.getenv("OPENAI_ORG_ID")
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 OPENROUTER_API_KEY = os.getenv("OPENROUTER_API_KEY")
 
-# LLM Priority Order (comma-separated: openrouter,gemini,openai)
 LLM_PRIORITY_ORDER_STR = os.getenv("LLM_PRIORITY_ORDER", "openrouter,gemini,openai")
 LLM_PRIORITY_ORDER = [p.strip() for p in LLM_PRIORITY_ORDER_STR.split(",") if p.strip()]
 
-# LLM Models for each provider (user can override via env)
 LLM_MODEL_OPENROUTER = os.getenv("LLM_MODEL_OPENROUTER", "openai/gpt-3.5-turbo")
 LLM_MODEL_GEMINI = os.getenv("LLM_MODEL_GEMINI", "gemini-pro")
 LLM_MODEL_OPENAI = os.getenv("LLM_MODEL_OPENAI", "gpt-3.5-turbo")
 
-# OpenRouter Configuration
 OPENROUTER_BASE_URL = os.getenv("OPENROUTER_BASE_URL", "https://openrouter.ai/api/v1")
 
-# Legacy support (for backward compatibility)
 LLM_MODEL = os.getenv("LLM_MODEL", LLM_MODEL_OPENAI)
 
 EMBEDDING_MODEL = os.getenv("EMBEDDING_MODEL", "local")
@@ -94,7 +89,6 @@ if USE_OPENAI_EMBEDDINGS and not OPENAI_API_KEY:
         "Set EMBEDDING_MODEL=local to use local embeddings (recommended for confidential data)."
     )
 
-# Check for at least one LLM API key
 if not OPENAI_API_KEY and not GEMINI_API_KEY and not OPENROUTER_API_KEY:
     logger.warning(
         "No LLM API keys set. Answer generation will fail. "

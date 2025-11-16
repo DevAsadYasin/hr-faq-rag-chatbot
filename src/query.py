@@ -1,36 +1,34 @@
 import json
 import logging
 import sys
+import os
 from typing import Dict, List, Any
+from pathlib import Path
+
+if __name__ == "__main__":
+    project_root = Path(__file__).parent.parent
+    os.environ["PYTHONPATH"] = str(project_root)
+    if str(project_root) not in sys.path:
+        sys.path.insert(0, str(project_root))
 
 from langchain_community.vectorstores import FAISS
 from langchain_openai import OpenAIEmbeddings
 from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_core.prompts import PromptTemplate
 from langchain_core.documents import Document
-from pathlib import Path
-from config import (
-    EMBEDDINGS_PATH,
-    EMBEDDING_MODEL,
-    LOCAL_EMBEDDING_MODEL,
-    OPENAI_API_KEY,
-    TOP_K_CHUNKS,
-    SEARCH_TYPE,
-    SIMILARITY_THRESHOLD,
-    LLM_MODEL,
-    LLM_TEMPERATURE,
-    USE_HYBRID_SEARCH,
-    USE_KEYWORD_ONLY,
-    USE_VECTOR_ONLY,
-    SEARCH_MODE,
-    HYBRID_SEARCH_METHOD,
-)
-from hybrid_search import BM25Index, hybrid_search
-from metadata_extractor import parse_query_filters
-from utils import retry_with_backoff
-from llm_manager import LLMManager
+from langchain_core.runnables import RunnablePassthrough
+from langchain_core.output_parsers import StrOutputParser
 
-# Setup logging
+from src.config import (
+    EMBEDDINGS_PATH, EMBEDDING_MODEL, LOCAL_EMBEDDING_MODEL, OPENAI_API_KEY,
+    TOP_K_CHUNKS, SEARCH_TYPE, SIMILARITY_THRESHOLD, LLM_MODEL, LLM_TEMPERATURE,
+    USE_HYBRID_SEARCH, USE_KEYWORD_ONLY, USE_VECTOR_ONLY, SEARCH_MODE, HYBRID_SEARCH_METHOD,
+)
+from src.hybrid_search import BM25Index, hybrid_search, filter_documents_by_metadata
+from src.metadata_extractor import parse_query_filters
+from src.utils import retry_with_backoff
+from src.llm_manager import LLMManager
+
 logging.basicConfig(
     level=logging.INFO,
     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
@@ -149,14 +147,12 @@ class HybridRetriever:
             keyword_results = self.bm25_index.search(search_terms, top_k=self.top_k * 2)
             results = [doc for doc, score in keyword_results]
             if combined_filters:
-                from hybrid_search import filter_documents_by_metadata
                 results = filter_documents_by_metadata(results, combined_filters)
             results = results[:self.top_k]
         elif USE_VECTOR_ONLY:
             logger.info("Using vector-only (semantic) search")
             if combined_filters:
                 candidates = self.vectorstore.similarity_search(search_terms, k=self.top_k * 4)
-                from hybrid_search import filter_documents_by_metadata
                 results = filter_documents_by_metadata(candidates, combined_filters)[:self.top_k]
             else:
                 results = self.vectorstore.similarity_search(search_terms, k=self.top_k)
@@ -173,11 +169,27 @@ class HybridRetriever:
             logger.info("Falling back to vector-only search")
             if combined_filters:
                 candidates = self.vectorstore.similarity_search(search_terms, k=self.top_k * 4)
-                from hybrid_search import filter_documents_by_metadata
                 results = filter_documents_by_metadata(candidates, combined_filters)[:self.top_k]
             else:
                 results = self.vectorstore.similarity_search(search_terms, k=self.top_k)
         
+        if not results and combined_filters:
+            logger.warning(f"No results with filters {combined_filters}, trying without filters")
+            if USE_KEYWORD_ONLY and self.bm25_index:
+                keyword_results = self.bm25_index.search(search_terms, top_k=self.top_k * 2)
+                results = [doc for doc, score in keyword_results][:self.top_k]
+            elif USE_HYBRID_SEARCH and self.bm25_index:
+                results = hybrid_search(
+                    self.vectorstore,
+                    self.bm25_index,
+                    search_terms,
+                    None,
+                    self.top_k
+                )
+            else:
+                results = self.vectorstore.similarity_search(search_terms, k=self.top_k)
+        
+        logger.info(f"Retrieved {len(results)} documents for query: {query[:50]}")
         return results
 
 
@@ -210,7 +222,6 @@ def create_retriever(vectorstore, bm25_index: BM25Index = None,
     return retriever
 
 
-# Initialize LLM manager (singleton pattern)
 _llm_manager = None
 
 def get_llm_manager() -> LLMManager:
@@ -223,7 +234,8 @@ def get_llm_manager() -> LLMManager:
 def create_qa_chain(retriever, llm_model: str = None, temperature: float = None):
     prompt_template = """You are a helpful HR support assistant. 
 Use the following pieces of context from the HR documentation to answer the question.
-If you don't know the answer based on the provided context, say that you don't know. 
+Provide a comprehensive answer based on the provided context. If the context contains relevant information, use it to answer the question fully.
+If the context doesn't contain enough information to fully answer the question, provide a partial answer based on what is available and suggest contacting HR support for more details.
 Do not make up information or use knowledge outside the provided context.
 
 Context from documentation:
@@ -231,7 +243,7 @@ Context from documentation:
 
 Question: {question}
 
-Provide a clear, accurate answer based only on the context above.
+Provide a clear, accurate, and helpful answer based on the context above. If you can answer part of the question, do so. Only say you don't know if the context provides absolutely no relevant information.
 Answer:"""
 
     PROMPT = PromptTemplate(
@@ -250,6 +262,16 @@ Answer:"""
         def __call__(self, inputs):
             question = inputs.get("query", "")
             docs = self.retriever.get_relevant_documents(question)
+            
+            if not docs:
+                logger.warning(f"No documents retrieved for query: {question}")
+                return {
+                    "result": "I couldn't find relevant information in the documentation to answer your question. Please try rephrasing your question or contact HR support for assistance.",
+                    "source_documents": []
+                }
+            
+            logger.info(f"Retrieved {len(docs)} documents for query processing")
+            
             llm = self.llm_manager.get_llm(model_override=llm_model)
             
             if not llm:
@@ -260,8 +282,13 @@ Answer:"""
             
             try:
                 context = "\n\n".join(doc.page_content for doc in docs)
-                from langchain_core.runnables import RunnablePassthrough
-                from langchain_core.output_parsers import StrOutputParser
+                
+                if not context or not context.strip():
+                    logger.warning("Empty context after joining documents")
+                    return {
+                        "result": "I couldn't find relevant information in the documentation to answer your question. Please try rephrasing your question or contact HR support for assistance.",
+                        "source_documents": docs
+                    }
                 
                 rag_chain = (
                     {"context": RunnablePassthrough(), "question": RunnablePassthrough()}

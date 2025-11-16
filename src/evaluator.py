@@ -1,15 +1,22 @@
 import json
 import logging
 import sys
+import os
 from typing import Dict, List, Any
+from pathlib import Path
+
+if __name__ == "__main__":
+    project_root = Path(__file__).parent.parent
+    os.environ["PYTHONPATH"] = str(project_root)
+    if str(project_root) not in sys.path:
+        sys.path.insert(0, str(project_root))
 
 from langchain_core.prompts import ChatPromptTemplate, SystemMessagePromptTemplate, HumanMessagePromptTemplate
 from langchain_core.output_parsers import PydanticOutputParser
 from pydantic import BaseModel, Field
 
-from llm_manager import LLMManager
+from src.llm_manager import LLMManager
 
-# Setup logging
 logging.basicConfig(
     level=logging.INFO,
     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
