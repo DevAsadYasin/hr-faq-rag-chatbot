@@ -1,0 +1,23 @@
+[
+  {
+    "user_question": "What is the company's vacation policy?",
+    "system_answer": "The company's vacation policy requires all employees to submit vacation requests through the Employee Self-Service Portal at least 2 weeks (14 calendar days) in advance of the requested start date. This advance notice allows managers to plan for coverage and ensures business continuity. To submit a request, employees need to log into the portal, navigate to Time & Attendance, select \"Request Time Off\", choose \"Vacation\" as the leave type, enter their start and end dates, and add any comments or notes for their manager.",
+    "chunks_related": [
+      {
+        "chunk_id": "faq_document_v1_chunk_0013",
+        "chunk_text": "All vacation requests must be submitted through the Employee Self-Service Portal at least 2 weeks (14 calendar days) in advance of the requested start date. This advance notice allows managers to plan for coverage and ensures business continuity. To submit a request, log into the portal, navigate to Time & Attendance, select \"Request Time Off\", choose \"Vacation\" as the leave type, enter your start and end dates, and add any comments or notes for your manager",
+        "metadata": {
+          "document_id": "faq_document_v1",
+          "chunk_index": 13,
+          "char_start": 2619,
+          "char_end": 3081,
+          "start_index": 2619,
+          "chunk_size": 462,
+          "token_count": 93,
+          "total_chunks": 490,
+          "created_at": "2025-11-16T04:36:24.625455"
+        }
+      }
+    ]
+  }
+]
