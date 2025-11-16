@@ -6,7 +6,7 @@ import numpy as np
 from langchain_core.documents import Document
 from langchain_community.vectorstores import FAISS
 
-from config import (
+from .config import (
     USE_HYBRID_SEARCH,
     USE_KEYWORD_ONLY,
     USE_VECTOR_ONLY,
@@ -15,8 +15,8 @@ from config import (
     KEYWORD_WEIGHT,
     TOP_K_CHUNKS,
 )
-from utils import normalize_scores
-from metadata_extractor import parse_query_filters
+from .utils import normalize_scores
+from .metadata_extractor import parse_query_filters
 
 logger = logging.getLogger(__name__)
 
@@ -82,13 +82,20 @@ def retrieve_then_filter(vectorstore: FAISS, query: str, filters: Dict[str, Any]
     if filters:
         filtered = filter_documents_by_metadata(candidates, filters)
         logger.info(f"Filtered {len(candidates)} candidates to {len(filtered)} using filters: {filters}")
+        
+        if len(filtered) == 0 and len(candidates) > 0:
+            logger.warning(f"Filters removed all candidates. Returning top {min(top_k, len(candidates))} unfiltered results")
+            return candidates[:top_k]
     else:
         filtered = candidates
     
     final_results = filtered[:top_k]
     
-    if len(final_results) < top_k:
+    if len(final_results) < top_k and len(final_results) > 0:
         logger.warning(f"Only {len(final_results)} results after filtering (requested {top_k})")
+    elif len(final_results) == 0:
+        logger.warning(f"No results after filtering. Returning top {min(top_k, len(candidates))} unfiltered candidates")
+        return candidates[:top_k]
     
     return final_results
 

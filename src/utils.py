@@ -4,7 +4,7 @@ from functools import wraps
 from typing import Callable, Any, List
 import numpy as np
 
-from config import MAX_RETRIES, RETRY_INITIAL_DELAY, RETRY_BACKOFF_FACTOR
+from .config import MAX_RETRIES, RETRY_INITIAL_DELAY, RETRY_BACKOFF_FACTOR
 
 logger = logging.getLogger(__name__)
 
